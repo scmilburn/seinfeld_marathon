@@ -1,0 +1,1793 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<title>Watch Seinfeld (1993) Online Free - PrimeWire | 1Channel</title>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link rel="alternate" type="application/rss+xml" title="Latest Movies RSS Feed" href="/rss.xml">
+<meta name="robots" content="ALL,INDEX,FOLLOW">
+<meta name="revisit-after" content="1 days">
+<meta name="keywords" content="Watch Seinfeld Online, Watch Seinfeld Online Free, Watch Seinfeld Primewire, Watch Seinfeld 1Channel, Watch Seinfeld Letmewatchthis, Seinfeld Putlocker, Watch Seinfeld Putlocker, Seinfeld Online Putlocker, Seinfeld Watch Online Putlocker, Seinfeld Putlocker"/>
+<meta name="description" content="Watch Seinfeld online - The continuing misadventures of neurotic New York stand-up comedian Jerry Seinfeld and his equally neurotic New York friends.. Download Seinfeld.">
+<meta property="og:title" content="Seinfeld">
+<meta property="og:site_name" content="primewire.ag">
+<meta property="og:type" content="movie">
+<meta property="fb:admins" content="1337">
+<meta property="og:image" content="//images.primewire.ag/thumbs/5207_Seinfeld_1993.jpg"/>
+<meta name="classification" content="Movies"/>
+<meta name="distribution" content="Global"/>
+<meta name="rating" content="General"/>
+<link rel="icon" href="/favicon.ico" type="image/x-icon"><link rel="shortcut icon" href="/favicon.ico" type="image/x-icon">
+<link rel="stylesheet" href="//images.primewire.ag/style3.css?5" type="text/css">
+<!--[if lte IE 6]>
+<link rel="stylesheet" href="http://www.primewire.ag/fix_ie6.css" type="text/css">
+<script type="text/javascript" src="http://www.primewire.ag/js/supersleight-min.js"></script>
+<![endif]-->
+<script type="text/javascript" src="https://ajax.googleapis.com/ajax/libs/jquery/1.4.2/jquery.min.js"></script>
+<meta name="google-site-verification" content="quF17eWT8gKltdSR68FtrIOB6i2hPDG3YfL0JPAN0Gw"/>
+<script type="text/javascript">
+$().ready(function() {
+		//	$("#search_box").focus();
+
+});
+function smallPop(URL) {
+	day = new Date();
+	id = day.getTime();
+	eval("page" + id + " = window.open(URL, '" + id + "', 'toolbar=0,scrollbars=1,location=0,statusbar=0,menubar=0,resizable=1,width=400, height=380,left = 320,top = 272');");
+}
+function clearText(field){
+    if (field.defaultValue == field.value) field.value = '';
+}
+</script>
+ 
+<script type='text/javascript'>(function(a,c){"Insticator"in a||(a.Insticator={ad:{},helper:{},client:{sid:"bb516360-1dab-4143-b325-da02a96f7403"},version:"1.0"},a.Insticator.ad.loadAd=function(b){a.Insticator.ad.q.push(b)},a.Insticator.ad.q=[]);var b=c.createElement("script");b.src="https://embed.insticator.com/advertisements/getheadertagforsite?id="+a.Insticator.client.sid;b.async=!0;var d=c.getElementsByTagName("script")[0];d.parentNode.insertBefore(b,d)})(window,document);</script>
+ 
+<script type='text/javascript'>
+  var googletag = googletag || {};
+  googletag.cmd = googletag.cmd || [];
+  (function() {
+    var gads = document.createElement('script');
+    gads.async = true;
+    gads.type = 'text/javascript';
+    var useSSL = 'https:' == document.location.protocol;
+    gads.src = (useSSL ? 'https:' : 'http:') +
+      '//www.googletagservices.com/tag/js/gpt.js';
+    var node = document.getElementsByTagName('script')[0];
+    node.parentNode.insertBefore(gads, node);
+  })();
+</script><script type="text/javascript" src="//images.primewire.ag/js/item_stuff.js"></script>
+<script type="text/javascript" src="//images.primewire.ag/js/jquery.truncate.js"></script>
+<script type="text/javascript" src="//images.primewire.ag/js/behavior.js"></script>
+<script type="text/javascript" src="//images.primewire.ag/js/rating.js"></script>
+<script language="javascript" type="text/javascript">
+$(function() {
+      $('.item_tags').truncate({max_length: 300});
+    });
+
+
+$(document).ready(function(){
+
+    
+    document.addEventListener("mousedown", function(event){
+        if($(event.target).hasClass('5f51314')){
+
+            event.preventDefault();
+            event.stopPropagation();
+
+            if(window.console){
+                console.log(event.target);
+            }
+
+            //_gaq.push(['_trackEvent', $(event.target).attr('data-track-cat'), $(event.target).attr('data-track-var')]);
+
+            window.open($(event.target).attr('href'), '_blank');
+
+            return false;
+        }
+    }, true);
+
+		//document.removeEventListener('click', _gunggo.pop.placeHolder, false);
+	//document.removeEventListener('touchstart', _gunggo.pop.placeHolder, false);
+	//document.removeEventListener('mousedown', _gunggo.pop.placeHolder, false);
+	//document.removeEventListener('click', _gunggo.pop.trigger, false);
+	//document.removeEventListener('touchstart', _gunggo.pop.trigger, false);
+	//document.removeEventListener('mousedown', _gunggo.pop.trigger, false);
+	
+    $('a.season-toggle').click(function() {
+        var a = $(this).attr("data-id");
+        $("div[data-id=" + a + "].show_season").toggle(100);
+        return false
+    });
+	
+	$( ".show_season" ).css({ display: "none" });
+	
+		var numItems = $('.show_season').length;
+	if(numItems == 1) {
+		$( ".show_season:last" ).css({ display: "block" });
+	}
+	
+});
+
+</script>
+<style>a.secure_link{color:green;padding:2px 0px 2px 18px;background:url(/images/secure_lock.png) no-repeat 0px -2px;margin:0px 0px 0px 5px;font-size:13px;}a.secure_link:visited{color:green;}</style>
+</head>
+<body>
+<div id="fb-root"></div>
+<div class="container">
+<div class="header">
+<div class="header_search">
+<form method="get" action="/index.php?search" id="searchform">
+<fieldset class="search_container">
+<input type="text" id="search_term" name="search_keywords" class="box" value="Search Title" onFocus="clearText(this)" onBlur="clearText(this)">
+<input type="hidden" name="key" value="5ffc0c5512c86083"/>
+<input type="hidden" value="2" name="search_section">
+<button class="btn" title="Submit Search" type="submit"></button>
+<span class="search_advanced_link"><a href="/index.php?search">Advanced Search</a></span>
+</fieldset>
+</form>
+</div>
+<div class="nav_tabs"><ul>
+<li class="unpressed"><a href="/" title="Watch Movies">Movies</a></li>
+<li class="pressed"><a href="/?tv" title="Watch TV Shows">TV Shows</a></li>
+<li class="unpressed"><a href="/?music" title="Listen to Music">Music</a></li>
+<li class="unpressed"><a href="/top.php" title="Top Users">Top Users</a></li>
+<li class="unpressed"><a href="/playlists.php" title="Playlists">Playlists</a></li>
+<li class="unpressed"><a href="/forum/" title="Forums">Forum</a></li>
+</ul></div>
+<div class="header_link"><a href="//www.primewire.ag" title="Watch Free Movies, Watch Movies Online on Primewire"></a></div>
+<div class="clearer"></div>
+</div>
+<div class="main_body">
+<div class="col1">
+<div class='info_message'>Want good things to happen to you? Follow us on <a href='https://www.facebook.com/pages/PrimeWire/684860298316669' target='_blank'>Facebook</a>.</div><h1 class="titles"><span><a href="/index.php?sort=featured">Watch Featured Movies</a></span></h1>
+<div class="featured_movies">
+<div class="featured_movie_item"><a href="/watch-2769179-The-Martian" title="Watch The Martian"><strong><img src="//images.primewire.ag/thumbs/2769179_The_Martian_2015.jpg" width="94" alt="Watch The Martian"></strong></a></div><div class="featured_movie_item"><a href="/watch-2772279-Trumbo" title="Watch Trumbo"><strong><img src="//images.primewire.ag/thumbs/2772279_Trumbo_2015.jpg" width="94" alt="Watch Trumbo"></strong></a></div><div class="featured_movie_item"><a href="/watch-2772277-Suffragette" title="Watch Suffragette"><strong><img src="//images.primewire.ag/thumbs/2772275_Suffragette_2015.jpg" width="94" alt="Watch Suffragette"></strong></a></div><div class="featured_movie_item"><a href="/watch-2768947-Hotel-Transylvania-2" title="Watch Hotel Transylvania 2"><strong><img src="//images.primewire.ag/thumbs/2768947_Hotel_Transylvania_2_2015.jpg" width="94" alt="Watch Hotel Transylvania 2"></strong></a></div><div class="featured_movie_item"><a href="/watch-2772255-Standoff" title="Watch Standoff"><strong><img src="//images.primewire.ag/thumbs/2772255_Standoff_2016_50.jpg" width="94" alt="Watch Standoff"></strong></a></div><div class="featured_movie_item"><a href="/watch-2770502-Spectre" title="Watch Spectre"><strong><img src="//images.primewire.ag/thumbs/2770502_Spectre_2015.jpg" width="94" alt="Watch Spectre"></strong></a></div><div class="clearer"></div>
+</div>
+<div class="index_container">
+<div class="stage_navigation movie_navigation">
+<h1 class="titles"><span>
+<a href="/tv-5207-Seinfeld" title="Watch Seinfeld (1993) online">Seinfeld ( 1993 )</a>
+</span></h1>
+</div>
+<div class="clearer"></div>
+<div class="movie_info">
+<table width="100%" border="0" cellspacing="3" cellpadding="3">
+<tr>
+<td colspan="2"><p style="width:460px; display:block;">
+Seinfeld: The continuing misadventures of neurotic New York stand-up comedian Jerry Seinfeld and his equally neurotic New York friends. </p></td>
+<td width="170" rowspan="12" align="center" valign="top">
+<a href="/external.php?title=Seinfeld&url=Ly9hZHMuYWQtY2VudGVyLmNvbS9vZmZlcj9wcm9kPTEzOSZyZWY9NTA1MDMwNw==&domain=ZnJhbWVndGZv&loggedin=0" style="width: 145px;height: 35px;display: block; background-image: url('//images.primewire.ag/images/download_button_hover3.gif')" class="5f51314" onClick="_gaq.push(['_trackEvent', 'flat_zone', 'big_button', 'bt_watch_now']);" title="Download Seinfeld" target="_blank"></a>
+<div class="movie_thumb">
+<img src="//images.primewire.ag/thumbs/5207_Seinfeld_1993.jpg" width="150" border="0" style="border-radius: 5px 5px 0px 0px;">
+<div class="tv_show_status" style="background-color:#aaa;">Ended</div>
+</div>
+<div class="movie_ratings">
+<div id="unit_long5207">
+<ul id="unit_ul5207" class="unit-rating" style="width:100px;">
+<li class="current-rating" style="width:84.8px;">Currently 4.24/5</li>
+<li><a href="/db.php?j=1&q=5207&t=1&c=5&p=5207&domain=" title="1 out of 5" rel="nofollow" class="r1-unit rater"></a></li>
+<li><a href="/db.php?j=2&q=5207&t=1&c=5&p=5207&domain=" title="2 out of 5" rel="nofollow" class="r2-unit rater"></a></li>
+<li><a href="/db.php?j=3&q=5207&t=1&c=5&p=5207&domain=" title="3 out of 5" rel="nofollow" class="r3-unit rater"></a></li>
+<li><a href="/db.php?j=4&q=5207&t=1&c=5&p=5207&domain=" title="4 out of 5" rel="nofollow" class="r4-unit rater"></a></li>
+<li><a href="/db.php?j=5&q=5207&t=1&c=5&p=5207&domain=" title="5 out of 5" rel="nofollow" class="r5-unit rater"></a></li>
+</ul>
+<center>
+<div class=not_voted>(992 votes)</div>
+</center>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td width="70"><strong>Ratings:</strong></td>
+<td>IMDB: <strong><span style='color:green; font-size: 12px;'>9.0/10</span></strong> Metascore: <strong>N/A</strong> RT: <strong>N/A</strong></td>
+</tr>
+<tr>
+<td width="70"><strong>Released:</strong></td>
+<td>October 06, 1993</td>
+</tr>
+<tr>
+<td width="70"><strong>Runtime:</strong></td>
+<td>30 mins </td>
+</tr>
+<tr>
+<td width="70"><strong>Genres:</strong></td>
+<td><span class="movie_info_genres"><a href="/?genre=Comedy&tv">Comedy</a> </span></td>
+</tr>
+<tr>
+<td width="70"><strong>Countries:</strong></td>
+<td><span class="movie_info_country">
+<a href="/?country=USA">USA</a> </span></td>
+</tr>
+<tr>
+<td width="70"><strong>Actors:</strong></td>
+<td><span class="movie_info_actors">
+<a href="/?actor_name=Bryan Cranston&tv">Bryan Cranston</a> <a href="/?actor_name=Jason Alexander&tv">Jason Alexander</a> <a href="/?actor_name=Jerry Seinfeld&tv">Jerry Seinfeld</a> <a href="/?actor_name=Jerry Stiller&tv">Jerry Stiller</a> <a href="/?actor_name=John O'Hurley&tv">John O'Hurley</a> <a href="/?actor_name=Julia Louis-Dreyfus&tv">Julia Louis-Dreyfus</a> <a href="/?actor_name=Len Lesser&tv">Len Lesser</a> <a href="/?actor_name=Michael Richards&tv">Michael Richards</a> <a href="/?actor_name=Wayne Knight&tv">Wayne Knight</a> </span></td>
+</tr>
+<tr>
+<td></td>
+<td></td>
+</tr>
+<tr>
+<td colspan="2"><div class="movie_info_actions">
+<div class="mlink_imdb"> <a href="http://www.imdb.com/title/tt0098904" target="_blank"></a> </div>
+<div class="mlink_splitter"></div>
+<div class="mlink_submitlink"> <a href="/submit.php?movieid=5207"></a> </div>
+<div class="mlink_splitter"></div>
+ 
+<ul id="multi_drop">
+<li class="trigger">
+<ul class="hidden_menu">
+<li><a href="/addtofavs.php?id=5207&whattodo=add" class="add_fav">Favorites</a> </li>
+<li><a href="/addtowatched.php?id=5207&whattodo=add&action=towatch" class="add_towatch">To Watch</a> </li>
+<li><a href="/addtowatched.php?id=5207&whattodo=add&action=watched" class="add_watched"> Watched</a> </li>
+<li><a href="/playlists.php?user=&add_to_playlist=5207" class="add_playlist">Playlist</a> </li>
+</ul>
+<span></span>
+</li>
+</ul>
+<div class="mlink_splitter"></div>
+<div class="mlink_buydvd"><a href="//ads.ad-center.com/offer?prod=139&ref=5050307" class="5f51314" onClick="_gaq.push(['_trackEvent', 'flat_zone', 'dvd_link']);" target="_blank"></a></div>
+<div class="mlink_splitter"></div>
+ 
+<div class="addthis_toolbox addthis_default_style mlink_share"> <a href="https://www.addthis.com/bookmark.php?v=250&amp;username=letmewatchthis" class="addthis_button_compact"><img src="/images/pixel.gif" style="border:none"/></a> </div>
+<script type="text/javascript" src="https://s7.addthis.com/js/250/addthis_widget.js#username=letmewatchthis" async></script>
+ 
+<div class="clearer"></div>
+<div style="margin:5px 0px;">
+<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.primewire.ag/tv-5207-Seinfeld%2F&amp;width=300&amp;layout=button_count&amp;action=like&amp;show_faces=true&amp;share=true&amp;height=21&amp;appId=361685863971589" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:300px; height:21px;" allowTransparency="true"></iframe>
+</div>
+</div></td>
+</tr>
+</table>
+</div>
+<div class="choose_tabs">
+<h1 class="titles"><span>Seinfeld Links</span></h1>
+<div class="actual_tab" id="first">
+<div class="tv_container">
+<h2>
+<a data-id="1" class="season-toggle" href="/tv-5207-Seinfeld/season-1">&#9658; Season 1<span style="font-weight: normal; font-size: 12px; color: #aaa;"> - Click for episodes</span></a>
+ 
+</h2>
+<div data-id="1" class="show_season">
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-1-episode-1">E1 <span class="tv_episode_name"> - The Seinfeld Chronicles</span>
+<span class="tv_episode_airdate"> - 1989-07-05</span>
+<span class="tv_num_versions">[ 16 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-1-episode-2">E2 <span class="tv_episode_name"> - The Stakeout</span>
+<span class="tv_episode_airdate"> - 1990-05-31</span>
+<span class="tv_num_versions">[ 15 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-1-episode-3">E3 <span class="tv_episode_name"> - The Robbery</span>
+<span class="tv_episode_airdate"> - 1990-06-07</span>
+<span class="tv_num_versions">[ 18 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-1-episode-4">E4 <span class="tv_episode_name"> - Male Unbonding</span>
+<span class="tv_episode_airdate"> - 1990-06-14</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-1-episode-5">E5 <span class="tv_episode_name"> - The Stock Tip</span>
+<span class="tv_episode_airdate"> - 1990-06-21</span>
+<span class="tv_num_versions">[ 8 Links ]</span>
+</a> </div>
+</div>
+<h2>
+<a data-id="2" class="season-toggle" href="/tv-5207-Seinfeld/season-2">&#9658; Season 2<span style="font-weight: normal; font-size: 12px; color: #aaa;"> - Click for episodes</span></a>
+ 
+</h2>
+<div data-id="2" class="show_season">
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-2-episode-1">E1 <span class="tv_episode_name"> - The Ex-Girlfriend</span>
+<span class="tv_episode_airdate"> - 1991-01-23</span>
+<span class="tv_num_versions">[ 18 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-2-episode-2">E2 <span class="tv_episode_name"> - The Pony Remark</span>
+<span class="tv_episode_airdate"> - 1991-01-30</span>
+<span class="tv_num_versions">[ 18 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-2-episode-3">E3 <span class="tv_episode_name"> - The Jacket</span>
+<span class="tv_episode_airdate"> - 1991-02-06</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-2-episode-4">E4 <span class="tv_episode_name"> - The Phone Message</span>
+<span class="tv_episode_airdate"> - 1991-02-13</span>
+<span class="tv_num_versions">[ 21 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-2-episode-5">E5 <span class="tv_episode_name"> - The Apartment</span>
+<span class="tv_episode_airdate"> - 1991-04-04</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-2-episode-6">E6 <span class="tv_episode_name"> - The Statue</span>
+<span class="tv_episode_airdate"> - 1991-04-11</span>
+<span class="tv_num_versions">[ 17 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-2-episode-7">E7 <span class="tv_episode_name"> - The Revenge</span>
+<span class="tv_episode_airdate"> - 1991-04-18</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-2-episode-8">E8 <span class="tv_episode_name"> - The Heart Attack</span>
+<span class="tv_episode_airdate"> - 1991-04-25</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-2-episode-9">E9 <span class="tv_episode_name"> - The Deal</span>
+<span class="tv_episode_airdate"> - 1991-05-02</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-2-episode-10">E10 <span class="tv_episode_name"> - The Baby Shower</span>
+<span class="tv_episode_airdate"> - 1991-05-16</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-2-episode-11">E11 <span class="tv_episode_name"> - The Chinese Restaurant</span>
+<span class="tv_episode_airdate"> - 1991-05-23</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-2-episode-12">E12 <span class="tv_episode_name"> - The Busboy</span>
+<span class="tv_episode_airdate"> - 1991-06-26</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+</div>
+<h2>
+<a data-id="3" class="season-toggle" href="/tv-5207-Seinfeld/season-3">&#9658; Season 3<span style="font-weight: normal; font-size: 12px; color: #aaa;"> - Click for episodes</span></a>
+ 
+</h2>
+<div data-id="3" class="show_season">
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-3-episode-1">E1 <span class="tv_episode_name"> - The Note</span>
+<span class="tv_episode_airdate"> - 1991-09-18</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-3-episode-2">E2 <span class="tv_episode_name"> - The Truth</span>
+<span class="tv_episode_airdate"> - 1991-09-25</span>
+<span class="tv_num_versions">[ 22 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-3-episode-3">E3 <span class="tv_episode_name"> - The Pen</span>
+<span class="tv_episode_airdate"> - 1991-10-02</span>
+<span class="tv_num_versions">[ 16 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-3-episode-4">E4 <span class="tv_episode_name"> - The Dog</span>
+<span class="tv_episode_airdate"> - 1991-10-09</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-3-episode-5">E5 <span class="tv_episode_name"> - The Library</span>
+<span class="tv_episode_airdate"> - 1991-10-16</span>
+<span class="tv_num_versions">[ 18 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-3-episode-6">E6 <span class="tv_episode_name"> - The Parking Garage</span>
+<span class="tv_episode_airdate"> - 1991-10-30</span>
+<span class="tv_num_versions">[ 21 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-3-episode-7">E7 <span class="tv_episode_name"> - The Cafe</span>
+<span class="tv_episode_airdate"> - 1991-11-06</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-3-episode-8">E8 <span class="tv_episode_name"> - The Tape</span>
+<span class="tv_episode_airdate"> - 1991-11-13</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-3-episode-9">E9 <span class="tv_episode_name"> - The Nose Job</span>
+<span class="tv_episode_airdate"> - 1991-11-20</span>
+<span class="tv_num_versions">[ 17 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-3-episode-10">E10 <span class="tv_episode_name"> - The Stranded</span>
+<span class="tv_episode_airdate"> - 1991-11-27</span>
+<span class="tv_num_versions">[ 21 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-3-episode-11">E11 <span class="tv_episode_name"> - The Alternate Side</span>
+<span class="tv_episode_airdate"> - 1991-12-04</span>
+<span class="tv_num_versions">[ 18 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-3-episode-12">E12 <span class="tv_episode_name"> - The Red Dot</span>
+<span class="tv_episode_airdate"> - 1991-12-11</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-3-episode-13">E13 <span class="tv_episode_name"> - The Subway</span>
+<span class="tv_episode_airdate"> - 1992-01-08</span>
+<span class="tv_num_versions">[ 21 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-3-episode-14">E14 <span class="tv_episode_name"> - The Pez Dispenser</span>
+<span class="tv_episode_airdate"> - 1992-01-15</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-3-episode-15">E15 <span class="tv_episode_name"> - The Suicide</span>
+<span class="tv_episode_airdate"> - 1992-01-29</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-3-episode-16">E16 <span class="tv_episode_name"> - The Fix-Up</span>
+<span class="tv_episode_airdate"> - 1992-02-05</span>
+<span class="tv_num_versions">[ 18 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-3-episode-17">E17 <span class="tv_episode_name"> - The Boyfriend (1)</span>
+<span class="tv_episode_airdate"> - 1992-02-12</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-3-episode-18">E18 <span class="tv_episode_name"> - The Boyfriend (2)</span>
+<span class="tv_episode_airdate"> - 1992-02-12</span>
+<span class="tv_num_versions">[ 6 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-3-episode-19">E19 <span class="tv_episode_name"> - The Limo</span>
+<span class="tv_episode_airdate"> - 1992-02-26</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-3-episode-20">E20 <span class="tv_episode_name"> - The Good Samaritan</span>
+<span class="tv_episode_airdate"> - 1992-03-04</span>
+<span class="tv_num_versions">[ 18 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-3-episode-21">E21 <span class="tv_episode_name"> - The Letter</span>
+<span class="tv_episode_airdate"> - 1992-03-25</span>
+<span class="tv_num_versions">[ 17 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-3-episode-22">E22 <span class="tv_episode_name"> - The Parking Space</span>
+<span class="tv_episode_airdate"> - 1992-02-04</span>
+<span class="tv_num_versions">[ 18 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-3-episode-23">E23 <span class="tv_episode_name"> - The Keys</span>
+<span class="tv_episode_airdate"> - 1992-05-06</span>
+<span class="tv_num_versions">[ 10 Links ]</span>
+</a> </div>
+</div>
+<h2>
+<a data-id="4" class="season-toggle" href="/tv-5207-Seinfeld/season-4">&#9658; Season 4<span style="font-weight: normal; font-size: 12px; color: #aaa;"> - Click for episodes</span></a>
+ 
+</h2>
+<div data-id="4" class="show_season">
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-4-episode-1">E1 <span class="tv_episode_name"> - The Trip (1)</span>
+<span class="tv_episode_airdate"> - 1992-08-12</span>
+<span class="tv_num_versions">[ 18 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-4-episode-2">E2 <span class="tv_episode_name"> - The Trip (2)</span>
+<span class="tv_episode_airdate"> - 1992-08-19</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-4-episode-3">E3 <span class="tv_episode_name"> - The Pitch</span>
+<span class="tv_episode_airdate"> - 1992-09-16</span>
+<span class="tv_num_versions">[ 18 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-4-episode-4">E4 <span class="tv_episode_name"> - The Ticket</span>
+<span class="tv_episode_airdate"> - 1992-09-16</span>
+<span class="tv_num_versions">[ 2 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-4-episode-5">E5 <span class="tv_episode_name"> - The Wallet (1)</span>
+<span class="tv_episode_airdate"> - 1992-09-23</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-4-episode-6">E6 <span class="tv_episode_name"> - The Watch (2)</span>
+<span class="tv_episode_airdate"> - 1992-09-30</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-4-episode-7">E7 <span class="tv_episode_name"> - The Bubble Boy</span>
+<span class="tv_episode_airdate"> - 1992-10-07</span>
+<span class="tv_num_versions">[ 22 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-4-episode-8">E8 <span class="tv_episode_name"> - The Cheever Letters</span>
+<span class="tv_episode_airdate"> - 1992-10-28</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-4-episode-9">E9 <span class="tv_episode_name"> - The Opera</span>
+<span class="tv_episode_airdate"> - 1992-11-04</span>
+<span class="tv_num_versions">[ 18 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-4-episode-10">E10 <span class="tv_episode_name"> - The Virgin</span>
+<span class="tv_episode_airdate"> - 1992-11-11</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-4-episode-11">E11 <span class="tv_episode_name"> - The Contest</span>
+<span class="tv_episode_airdate"> - 1992-11-18</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-4-episode-12">E12 <span class="tv_episode_name"> - The Airport</span>
+<span class="tv_episode_airdate"> - 1992-11-25</span>
+<span class="tv_num_versions">[ 23 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-4-episode-13">E13 <span class="tv_episode_name"> - The Pick</span>
+<span class="tv_episode_airdate"> - 1992-12-16</span>
+<span class="tv_num_versions">[ 22 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-4-episode-14">E14 <span class="tv_episode_name"> - The Movie</span>
+<span class="tv_episode_airdate"> - 1993-01-06</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-4-episode-15">E15 <span class="tv_episode_name"> - The Visa</span>
+<span class="tv_episode_airdate"> - 1993-01-27</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-4-episode-16">E16 <span class="tv_episode_name"> - The Shoes</span>
+<span class="tv_episode_airdate"> - 1993-02-04</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-4-episode-17">E17 <span class="tv_episode_name"> - The Outing</span>
+<span class="tv_episode_airdate"> - 1993-02-11</span>
+<span class="tv_num_versions">[ 17 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-4-episode-18">E18 <span class="tv_episode_name"> - The Old Man</span>
+<span class="tv_episode_airdate"> - 1993-02-18</span>
+<span class="tv_num_versions">[ 18 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-4-episode-19">E19 <span class="tv_episode_name"> - The Implant</span>
+<span class="tv_episode_airdate"> - 1993-02-25</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-4-episode-20">E20 <span class="tv_episode_name"> - The Junior Mint</span>
+<span class="tv_episode_airdate"> - 1993-03-18</span>
+<span class="tv_num_versions">[ 17 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-4-episode-21">E21 <span class="tv_episode_name"> - The Smelly Car</span>
+<span class="tv_episode_airdate"> - 1993-04-15</span>
+<span class="tv_num_versions">[ 18 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-4-episode-22">E22 <span class="tv_episode_name"> - The Handicap Spot</span>
+<span class="tv_episode_airdate"> - 1993-05-13</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-4-episode-23">E23 <span class="tv_episode_name"> - The Pilot (1)</span>
+<span class="tv_episode_airdate"> - 1993-05-20</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-4-episode-24">E24 <span class="tv_episode_name"> - The Pilot (2)</span>
+<span class="tv_episode_airdate"> - 1993-05-20</span>
+<span class="tv_num_versions">[ 1 Links ]</span>
+</a> </div>
+</div>
+<h2>
+<a data-id="5" class="season-toggle" href="/tv-5207-Seinfeld/season-5">&#9658; Season 5<span style="font-weight: normal; font-size: 12px; color: #aaa;"> - Click for episodes</span></a>
+ 
+</h2>
+<div data-id="5" class="show_season">
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-5-episode-1">E1 <span class="tv_episode_name"> - The Mango</span>
+<span class="tv_episode_airdate"> - 1993-09-16</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-5-episode-2">E2 <span class="tv_episode_name"> - The Puffy Shirt</span>
+<span class="tv_episode_airdate"> - 1993-09-23</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-5-episode-3">E3 <span class="tv_episode_name"> - The Glasses</span>
+<span class="tv_episode_airdate"> - 1993-09-30</span>
+<span class="tv_num_versions">[ 18 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-5-episode-4">E4 <span class="tv_episode_name"> - The Sniffing Accountant</span>
+<span class="tv_episode_airdate"> - 1993-10-07</span>
+<span class="tv_num_versions">[ 21 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-5-episode-5">E5 <span class="tv_episode_name"> - The Bris</span>
+<span class="tv_episode_airdate"> - 1993-10-14</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-5-episode-6">E6 <span class="tv_episode_name"> - The Lip Reader</span>
+<span class="tv_episode_airdate"> - 1993-10-28</span>
+<span class="tv_num_versions">[ 17 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-5-episode-7">E7 <span class="tv_episode_name"> - The Non-Fat Yogurt</span>
+<span class="tv_episode_airdate"> - 1993-11-04</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-5-episode-8">E8 <span class="tv_episode_name"> - The Barber</span>
+<span class="tv_episode_airdate"> - 1993-11-11</span>
+<span class="tv_num_versions">[ 18 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-5-episode-9">E9 <span class="tv_episode_name"> - The Masseuse</span>
+<span class="tv_episode_airdate"> - 1993-11-18</span>
+<span class="tv_num_versions">[ 18 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-5-episode-10">E10 <span class="tv_episode_name"> - The Cigar Store Indian</span>
+<span class="tv_episode_airdate"> - 1993-12-09</span>
+<span class="tv_num_versions">[ 18 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-5-episode-11">E11 <span class="tv_episode_name"> - The Conversion</span>
+<span class="tv_episode_airdate"> - 1993-12-16</span>
+<span class="tv_num_versions">[ 18 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-5-episode-12">E12 <span class="tv_episode_name"> - The Stall</span>
+<span class="tv_episode_airdate"> - 1994-01-06</span>
+<span class="tv_num_versions">[ 18 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-5-episode-13">E13 <span class="tv_episode_name"> - The Dinner Party</span>
+<span class="tv_episode_airdate"> - 1994-02-03</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-5-episode-14">E14 <span class="tv_episode_name"> - The Marine Biologist</span>
+<span class="tv_episode_airdate"> - 1994-02-10</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-5-episode-15">E15 <span class="tv_episode_name"> - The Pie</span>
+<span class="tv_episode_airdate"> - 1994-02-17</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-5-episode-16">E16 <span class="tv_episode_name"> - The Stand-In</span>
+<span class="tv_episode_airdate"> - 1994-02-24</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-5-episode-17">E17 <span class="tv_episode_name"> - The Wife</span>
+<span class="tv_episode_airdate"> - 1994-03-17</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-5-episode-18">E18 <span class="tv_episode_name"> - The Raincoats (1)</span>
+<span class="tv_episode_airdate"> - 1994-04-28</span>
+<span class="tv_num_versions">[ 18 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-5-episode-19">E19 <span class="tv_episode_name"> - The Raincoats (2)</span>
+<span class="tv_episode_airdate"> - 1994-04-28</span>
+<span class="tv_num_versions">[ 6 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-5-episode-20">E20 <span class="tv_episode_name"> - The Fire</span>
+<span class="tv_episode_airdate"> - 1994-05-05</span>
+<span class="tv_num_versions">[ 18 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-5-episode-21">E21 <span class="tv_episode_name"> - The Hamptons</span>
+<span class="tv_episode_airdate"> - 1994-05-12</span>
+<span class="tv_num_versions">[ 18 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-5-episode-22">E22 <span class="tv_episode_name"> - The Opposite</span>
+<span class="tv_episode_airdate"> - 1994-05-19</span>
+<span class="tv_num_versions">[ 17 Links ]</span>
+</a> </div>
+</div>
+<h2>
+<a data-id="6" class="season-toggle" href="/tv-5207-Seinfeld/season-6">&#9658; Season 6<span style="font-weight: normal; font-size: 12px; color: #aaa;"> - Click for episodes</span></a>
+ 
+</h2>
+<div data-id="6" class="show_season">
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-6-episode-1">E1 <span class="tv_episode_name"> - The Chaperone</span>
+<span class="tv_episode_airdate"> - 1994-09-22</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-6-episode-2">E2 <span class="tv_episode_name"> - The Big Salad</span>
+<span class="tv_episode_airdate"> - 1994-09-29</span>
+<span class="tv_num_versions">[ 17 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-6-episode-3">E3 <span class="tv_episode_name"> - The Pledge Drive</span>
+<span class="tv_episode_airdate"> - 1994-10-06</span>
+<span class="tv_num_versions">[ 18 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-6-episode-4">E4 <span class="tv_episode_name"> - The Chinese Woman</span>
+<span class="tv_episode_airdate"> - 1994-10-13</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-6-episode-5">E5 <span class="tv_episode_name"> - The Couch</span>
+<span class="tv_episode_airdate"> - 1994-10-27</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-6-episode-6">E6 <span class="tv_episode_name"> - The Gymnast</span>
+<span class="tv_episode_airdate"> - 1994-11-03</span>
+<span class="tv_num_versions">[ 18 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-6-episode-7">E7 <span class="tv_episode_name"> - The Soup</span>
+<span class="tv_episode_airdate"> - 1994-11-10</span>
+<span class="tv_num_versions">[ 18 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-6-episode-8">E8 <span class="tv_episode_name"> - The Mom & Pop Store</span>
+<span class="tv_episode_airdate"> - 1994-11-17</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-6-episode-9">E9 <span class="tv_episode_name"> - The Secretary</span>
+<span class="tv_episode_airdate"> - 1994-12-08</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-6-episode-10">E10 <span class="tv_episode_name"> - The Race</span>
+<span class="tv_episode_airdate"> - 1994-12-15</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-6-episode-11">E11 <span class="tv_episode_name"> - The Switch</span>
+<span class="tv_episode_airdate"> - 1995-01-05</span>
+<span class="tv_num_versions">[ 17 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-6-episode-12">E12 <span class="tv_episode_name"> - The Label Maker</span>
+<span class="tv_episode_airdate"> - 1995-01-19</span>
+<span class="tv_num_versions">[ 18 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-6-episode-13">E13 <span class="tv_episode_name"> - The Scofflaw</span>
+<span class="tv_episode_airdate"> - 1995-01-26</span>
+<span class="tv_num_versions">[ 18 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-6-episode-14">E14 <span class="tv_episode_name"> - Highlights of a Hundred (1)</span>
+<span class="tv_episode_airdate"> - 1995-02-02</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-6-episode-15">E15 <span class="tv_episode_name"> - Highlights of a Hundred (2)</span>
+<span class="tv_episode_airdate"> - 1995-02-02</span>
+<span class="tv_num_versions">[ 1 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-6-episode-16">E16 <span class="tv_episode_name"> - The Beard</span>
+<span class="tv_episode_airdate"> - 1995-02-09</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-6-episode-17">E17 <span class="tv_episode_name"> - The Kiss Hello</span>
+<span class="tv_episode_airdate"> - 1995-02-16</span>
+<span class="tv_num_versions">[ 21 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-6-episode-18">E18 <span class="tv_episode_name"> - The Doorman</span>
+<span class="tv_episode_airdate"> - 1995-02-23</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-6-episode-19">E19 <span class="tv_episode_name"> - The Jimmy</span>
+<span class="tv_episode_airdate"> - 1995-03-16</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-6-episode-20">E20 <span class="tv_episode_name"> - The Doodle</span>
+<span class="tv_episode_airdate"> - 1995-04-06</span>
+<span class="tv_num_versions">[ 21 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-6-episode-21">E21 <span class="tv_episode_name"> - The Fusilli Jerry</span>
+<span class="tv_episode_airdate"> - 1995-04-27</span>
+<span class="tv_num_versions">[ 15 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-6-episode-22">E22 <span class="tv_episode_name"> - The Diplomat's Club</span>
+<span class="tv_episode_airdate"> - 1995-05-04</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-6-episode-23">E23 <span class="tv_episode_name"> - The Face Painter</span>
+<span class="tv_episode_airdate"> - 1995-05-11</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-6-episode-24">E24 <span class="tv_episode_name"> - The Understudy</span>
+<span class="tv_episode_airdate"> - 1995-05-18</span>
+<span class="tv_num_versions">[ 22 Links ]</span>
+</a> </div>
+</div>
+<h2>
+<a data-id="7" class="season-toggle" href="/tv-5207-Seinfeld/season-7">&#9658; Season 7<span style="font-weight: normal; font-size: 12px; color: #aaa;"> - Click for episodes</span></a>
+ 
+</h2>
+<div data-id="7" class="show_season">
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-7-episode-1">E1 <span class="tv_episode_name"> - The Engagement</span>
+<span class="tv_episode_airdate"> - 1995-09-21</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-7-episode-2">E2 <span class="tv_episode_name"> - The Postponement</span>
+<span class="tv_episode_airdate"> - 1995-09-28</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-7-episode-3">E3 <span class="tv_episode_name"> - The Maestro</span>
+<span class="tv_episode_airdate"> - 1995-10-05</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-7-episode-4">E4 <span class="tv_episode_name"> - The Wink</span>
+<span class="tv_episode_airdate"> - 1995-10-12</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-7-episode-5">E5 <span class="tv_episode_name"> - The Hot Tub</span>
+<span class="tv_episode_airdate"> - 1995-10-19</span>
+<span class="tv_num_versions">[ 18 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-7-episode-6">E6 <span class="tv_episode_name"> - The Soup Nazi</span>
+<span class="tv_episode_airdate"> - 1995-11-02</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-7-episode-7">E7 <span class="tv_episode_name"> - The Secret Code</span>
+<span class="tv_episode_airdate"> - 1995-11-09</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-7-episode-8">E8 <span class="tv_episode_name"> - The Pool Guy</span>
+<span class="tv_episode_airdate"> - 1995-11-16</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-7-episode-9">E9 <span class="tv_episode_name"> - The Sponge</span>
+<span class="tv_episode_airdate"> - 1995-12-07</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-7-episode-10">E10 <span class="tv_episode_name"> - The Gum</span>
+<span class="tv_episode_airdate"> - 1995-12-14</span>
+<span class="tv_num_versions">[ 18 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-7-episode-11">E11 <span class="tv_episode_name"> - The Rye</span>
+<span class="tv_episode_airdate"> - 1996-01-04</span>
+<span class="tv_num_versions">[ 22 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-7-episode-12">E12 <span class="tv_episode_name"> - The Caddy</span>
+<span class="tv_episode_airdate"> - 1996-01-25</span>
+<span class="tv_num_versions">[ 21 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-7-episode-13">E13 <span class="tv_episode_name"> - The Seven</span>
+<span class="tv_episode_airdate"> - 1996-02-01</span>
+<span class="tv_num_versions">[ 24 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-7-episode-14">E14 <span class="tv_episode_name"> - The Cadillac (1)</span>
+<span class="tv_episode_airdate"> - 1996-02-08</span>
+<span class="tv_num_versions">[ 23 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-7-episode-15">E15 <span class="tv_episode_name"> - The Cadillac (2)</span>
+<span class="tv_episode_airdate"> - 1996-02-08</span>
+<span class="tv_num_versions">[ 3 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-7-episode-16">E16 <span class="tv_episode_name"> - The Shower Head</span>
+<span class="tv_episode_airdate"> - 1996-02-15</span>
+<span class="tv_num_versions">[ 21 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-7-episode-17">E17 <span class="tv_episode_name"> - The Doll</span>
+<span class="tv_episode_airdate"> - 1996-02-22</span>
+<span class="tv_num_versions">[ 24 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-7-episode-18">E18 <span class="tv_episode_name"> - The Friars Club</span>
+<span class="tv_episode_airdate"> - 1996-03-07</span>
+<span class="tv_num_versions">[ 22 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-7-episode-19">E19 <span class="tv_episode_name"> - The Wig Master</span>
+<span class="tv_episode_airdate"> - 1996-04-04</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-7-episode-20">E20 <span class="tv_episode_name"> - The Calzone</span>
+<span class="tv_episode_airdate"> - 1996-04-25</span>
+<span class="tv_num_versions">[ 22 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-7-episode-21">E21 <span class="tv_episode_name"> - The Bottle Deposit (1)</span>
+<span class="tv_episode_airdate"> - 1996-05-02</span>
+<span class="tv_num_versions">[ 22 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-7-episode-22">E22 <span class="tv_episode_name"> - The Bottle Deposit (2)</span>
+<span class="tv_episode_airdate"> - 1996-05-02</span>
+<span class="tv_num_versions">[ 6 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-7-episode-23">E23 <span class="tv_episode_name"> - The Wait Out</span>
+<span class="tv_episode_airdate"> - 1996-05-09</span>
+<span class="tv_num_versions">[ 21 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-7-episode-24">E24 <span class="tv_episode_name"> - The Invitations</span>
+<span class="tv_episode_airdate"> - 1996-05-16</span>
+<span class="tv_num_versions">[ 18 Links ]</span>
+</a> </div>
+</div>
+<h2>
+<a data-id="8" class="season-toggle" href="/tv-5207-Seinfeld/season-8">&#9658; Season 8<span style="font-weight: normal; font-size: 12px; color: #aaa;"> - Click for episodes</span></a>
+ 
+</h2>
+<div data-id="8" class="show_season">
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-8-episode-1">E1 <span class="tv_episode_name"> - The Foundation</span>
+<span class="tv_episode_airdate"> - 1996-09-19</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-8-episode-2">E2 <span class="tv_episode_name"> - The Soul Mate</span>
+<span class="tv_episode_airdate"> - 1996-09-26</span>
+<span class="tv_num_versions">[ 22 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-8-episode-3">E3 <span class="tv_episode_name"> - The Bizarro Jerry</span>
+<span class="tv_episode_airdate"> - 1996-10-03</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-8-episode-4">E4 <span class="tv_episode_name"> - The Little Kicks</span>
+<span class="tv_episode_airdate"> - 1996-10-10</span>
+<span class="tv_num_versions">[ 21 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-8-episode-5">E5 <span class="tv_episode_name"> - The Package</span>
+<span class="tv_episode_airdate"> - 1996-10-17</span>
+<span class="tv_num_versions">[ 21 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-8-episode-6">E6 <span class="tv_episode_name"> - The Fatigues</span>
+<span class="tv_episode_airdate"> - 1996-10-31</span>
+<span class="tv_num_versions">[ 23 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-8-episode-7">E7 <span class="tv_episode_name"> - The Checks</span>
+<span class="tv_episode_airdate"> - 1996-11-07</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-8-episode-8">E8 <span class="tv_episode_name"> - The Chicken Roaster</span>
+<span class="tv_episode_airdate"> - 1996-11-14</span>
+<span class="tv_num_versions">[ 22 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-8-episode-9">E9 <span class="tv_episode_name"> - The Abstinence</span>
+<span class="tv_episode_airdate"> - 1996-11-21</span>
+<span class="tv_num_versions">[ 21 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-8-episode-10">E10 <span class="tv_episode_name"> - The Andrea Doria</span>
+<span class="tv_episode_airdate"> - 1996-12-19</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-8-episode-11">E11 <span class="tv_episode_name"> - The Little Jerry</span>
+<span class="tv_episode_airdate"> - 1997-01-09</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-8-episode-12">E12 <span class="tv_episode_name"> - The Money</span>
+<span class="tv_episode_airdate"> - 1997-01-16</span>
+<span class="tv_num_versions">[ 17 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-8-episode-13">E13 <span class="tv_episode_name"> - The Comeback</span>
+<span class="tv_episode_airdate"> - 1997-01-30</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-8-episode-14">E14 <span class="tv_episode_name"> - The Van Buren Boys</span>
+<span class="tv_episode_airdate"> - 1997-02-06</span>
+<span class="tv_num_versions">[ 18 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-8-episode-15">E15 <span class="tv_episode_name"> - The Susie</span>
+<span class="tv_episode_airdate"> - 1997-02-13</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-8-episode-16">E16 <span class="tv_episode_name"> - The Pothole</span>
+<span class="tv_episode_airdate"> - 1997-02-20</span>
+<span class="tv_num_versions">[ 17 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-8-episode-17">E17 <span class="tv_episode_name"> - The English Patient</span>
+<span class="tv_episode_airdate"> - 1997-03-13</span>
+<span class="tv_num_versions">[ 17 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-8-episode-18">E18 <span class="tv_episode_name"> - The Nap</span>
+<span class="tv_episode_airdate"> - 1997-04-10</span>
+<span class="tv_num_versions">[ 15 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-8-episode-19">E19 <span class="tv_episode_name"> - The Yada Yada</span>
+<span class="tv_episode_airdate"> - 1997-04-24</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-8-episode-20">E20 <span class="tv_episode_name"> - The Millennium</span>
+<span class="tv_episode_airdate"> - 1997-05-01</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-8-episode-21">E21 <span class="tv_episode_name"> - The Muffin Tops</span>
+<span class="tv_episode_airdate"> - 1997-05-08</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-8-episode-22">E22 <span class="tv_episode_name"> - The Summer of George</span>
+<span class="tv_episode_airdate"> - 1997-05-15</span>
+<span class="tv_num_versions">[ 16 Links ]</span>
+</a> </div>
+</div>
+<h2>
+<a data-id="9" class="season-toggle" href="/tv-5207-Seinfeld/season-9">&#9658; Season 9<span style="font-weight: normal; font-size: 12px; color: #aaa;"> - Click for episodes</span></a>
+ 
+</h2>
+<div data-id="9" class="show_season">
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-9-episode-1">E1 <span class="tv_episode_name"> - The Butter Shave</span>
+<span class="tv_episode_airdate"> - 1997-09-25</span>
+<span class="tv_num_versions">[ 21 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-9-episode-2">E2 <span class="tv_episode_name"> - The Voice</span>
+<span class="tv_episode_airdate"> - 1997-10-02</span>
+<span class="tv_num_versions">[ 21 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-9-episode-3">E3 <span class="tv_episode_name"> - The Serenity Now</span>
+<span class="tv_episode_airdate"> - 1997-10-09</span>
+<span class="tv_num_versions">[ 17 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-9-episode-4">E4 <span class="tv_episode_name"> - The Blood</span>
+<span class="tv_episode_airdate"> - 1997-10-16</span>
+<span class="tv_num_versions">[ 22 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-9-episode-5">E5 <span class="tv_episode_name"> - The Junk Mail</span>
+<span class="tv_episode_airdate"> - 1997-10-30</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-9-episode-6">E6 <span class="tv_episode_name"> - The Merv Griffin Show</span>
+<span class="tv_episode_airdate"> - 1997-11-06</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-9-episode-7">E7 <span class="tv_episode_name"> - The Slicer</span>
+<span class="tv_episode_airdate"> - 1997-11-13</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-9-episode-8">E8 <span class="tv_episode_name"> - The Betrayal</span>
+<span class="tv_episode_airdate"> - 1997-11-20</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-9-episode-9">E9 <span class="tv_episode_name"> - The Apology</span>
+<span class="tv_episode_airdate"> - 1997-12-11</span>
+<span class="tv_num_versions">[ 21 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-9-episode-10">E10 <span class="tv_episode_name"> - The Strike</span>
+<span class="tv_episode_airdate"> - 1997-12-18</span>
+<span class="tv_num_versions">[ 22 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-9-episode-11">E11 <span class="tv_episode_name"> - The Dealership</span>
+<span class="tv_episode_airdate"> - 1998-01-08</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-9-episode-12">E12 <span class="tv_episode_name"> - The Reverse Peephole</span>
+<span class="tv_episode_airdate"> - 1998-01-15</span>
+<span class="tv_num_versions">[ 22 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-9-episode-13">E13 <span class="tv_episode_name"> - The Cartoon</span>
+<span class="tv_episode_airdate"> - 1998-01-29</span>
+<span class="tv_num_versions">[ 21 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-9-episode-14">E14 <span class="tv_episode_name"> - The Strongbox</span>
+<span class="tv_episode_airdate"> - 1998-02-05</span>
+<span class="tv_num_versions">[ 21 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-9-episode-15">E15 <span class="tv_episode_name"> - The Wizard</span>
+<span class="tv_episode_airdate"> - 1998-02-26</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-9-episode-16">E16 <span class="tv_episode_name"> - The Burning</span>
+<span class="tv_episode_airdate"> - 1998-03-19</span>
+<span class="tv_num_versions">[ 20 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-9-episode-17">E17 <span class="tv_episode_name"> - The Bookstore</span>
+<span class="tv_episode_airdate"> - 1998-04-09</span>
+<span class="tv_num_versions">[ 18 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-9-episode-18">E18 <span class="tv_episode_name"> - The Frogger</span>
+<span class="tv_episode_airdate"> - 1998-04-23</span>
+<span class="tv_num_versions">[ 21 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-9-episode-19">E19 <span class="tv_episode_name"> - The Maid</span>
+<span class="tv_episode_airdate"> - 1998-04-30</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-9-episode-20">E20 <span class="tv_episode_name"> - The Puerto Rican Day</span>
+<span class="tv_episode_airdate"> - 1998-05-07</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-9-episode-21">E21 <span class="tv_episode_name"> - The Clip Show (1) (a.k.a. The Chronicle (1))</span>
+<span class="tv_episode_airdate"> - 1998-05-14</span>
+<span class="tv_num_versions">[ 19 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-9-episode-22">E22 <span class="tv_episode_name"> - The Clip Show (2) (a.k.a. The Chronicle (2))</span>
+<span class="tv_episode_airdate"> - 1998-05-14</span>
+<span class="tv_num_versions">[ 5 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-9-episode-23">E23 <span class="tv_episode_name"> - The Finale (1)</span>
+<span class="tv_episode_airdate"> - 1998-05-14</span>
+<span class="tv_num_versions">[ 21 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-9-episode-24">E24 <span class="tv_episode_name"> - The Finale (2)</span>
+<span class="tv_episode_airdate"> - 1998-05-14</span>
+<span class="tv_num_versions">[ 4 Links ]</span>
+</a> </div>
+<div class="tv_episode_item"> <a href="/tv-5207-Seinfeld/season-9-episode-25">E25 <span class="tv_episode_name"> - The "Seinfeld" Story</span>
+<span class="tv_episode_airdate"> - 2004-11-25</span>
+<span class="tv_num_versions">[ 2 Links ]</span>
+</a> </div>
+</div>
+</div>
+<div class="clearer"></div>
+<div class="download_link">This movie may be available for download - <a href="/external.php?title=Seinfeld&url=Ly9hZHMuYWQtY2VudGVyLmNvbS9vZmZlcj9wcm9kPTEzOSZyZWY9NTA1MDMwNw==&domain=ZnJhbWVndGZv&loggedin=0" class="5f51314" onClick="_gaq.push(['_trackEvent', 'flat_zone', 'bottom_aff_link']);" target="_blank">Click here to try </a></div> <table cellspacing="2" cellpadding="2" border="0" width="100%" style="padding:5px;">
+<tbody>
+<tr>
+<td width="35"><span class="quality_cam"></span></td>
+<td>= Low Quality</td>
+<td width="35"><span class="quality_ts"></span></td>
+<td>= Medium Quality</td>
+<td width="35"><span class="quality_dvd"></span></td>
+<td>= High Quality</td>
+<td width="200"><span class="help_link"><a href="/how_to_watch_movies.php">How do I watch these?</a></span></td>
+</tr>
+</tbody>
+</table>
+</div>
+</div>
+<h1 class="titles"><span>Sponsored Content</span></h1>
+<iframe src="/additional_content.php" width="658" height="500" frameBorder="0" scrolling="no"></iframe>
+<h1 class="titles"><span>Similar to Seinfeld</span></h1>
+<div class="item_similar similar_item_ie">
+<a href="/watch-1238-Spider-Man-3" title="Watch Spider-Man 3">
+<img src="//images.primewire.ag/thumbs/1238_Spider_Man_3_2007.jpg" width="120">
+Spider-Man 3 ( 2007 )</a>
+<a href="/watch-224-Definitely-Maybe" title="Watch Definitely, Maybe">
+<img src="//images.primewire.ag/thumbs/224_Definitely_Maybe_2008.jpg" width="120">
+Definitely, Ma.. ( 2008 )</a>
+<a href="/watch-10507-Malcolm-in-the-Middle" title="Watch Malcolm in the Middle">
+<img src="//images.primewire.ag/thumbs/10507_Malcolm_in_the_Middle_2000.jpg" width="120">
+Malcolm in the.. ( 2000 )</a>
+<a href="/watch-2012-Love-Actually" title="Watch Love Actually">
+<img src="//images.primewire.ag/thumbs/2012_Love_Actually_2003.jpg" width="120">
+Love Actually ( 2003 )</a>
+<a href="/watch-2237-Closer" title="Watch Closer">
+<img src="//images.primewire.ag/thumbs/2237_Closer_2004.jpg" width="120">
+Closer ( 2004 )</a>
+<div class="clearer"></div>
+</div>
+<h1 class="titles"><span>Seinfeld Tags</span></h1>
+<div class="item_tags">
+<a href="/?tag=Actor+Playing+Himself&tv">Actor Playing Himself</a> <a href="/?tag=Actor+Shares+First+Name+With+Character&tv">Actor Shares First Name With Character</a> <a href="/?tag=Actor+Shares+Last+Name+With+Character&tv">Actor Shares Last Name With Character</a> <a href="/?tag=Apartment&tv">Apartment</a> <a href="/?tag=Baseball&tv">Baseball</a> <a href="/?tag=Black+Humor&tv">Black Humor</a> <a href="/?tag=Book+Publishing&tv">Book Publishing</a> <a href="/?tag=Character+Name+In+Title&tv">Character Name In Title</a> <a href="/?tag=Comedy+Of+Manners&tv">Comedy Of Manners</a> <a href="/?tag=Cult+Favorite&tv">Cult Favorite</a> <a href="/?tag=Dating&tv">Dating</a> <a href="/?tag=Diner&tv">Diner</a> <a href="/?tag=Domineering+Mother&tv">Domineering Mother</a> <a href="/?tag=Eccentric&tv">Eccentric</a> <a href="/?tag=Ensemble+Cast&tv">Ensemble Cast</a> <a href="/?tag=Friendship&tv">Friendship</a> <a href="/?tag=Immorality&tv">Immorality</a> <a href="/?tag=Manhattan+New+York+City&tv">Manhattan New York City</a> <a href="/?tag=Multiple+Actors+For+One+Character&tv">Multiple Actors For One Character</a> <a href="/?tag=Neighbor&tv">Neighbor</a> <a href="/?tag=Neurotic&tv">Neurotic</a> <a href="/?tag=New+York+City&tv">New York City</a> <a href="/?tag=New+York+Yankees&tv">New York Yankees</a> <a href="/?tag=Nothing&tv">Nothing</a> <a href="/?tag=One+Word+Title&tv">One Word Title</a> <a href="/?tag=Product+Placement&tv">Product Placement</a> <a href="/?tag=Reference+To+Superman&tv">Reference To Superman</a> <a href="/?tag=Selfishness&tv">Selfishness</a> <a href="/?tag=Sitcom&tv">Sitcom</a> <a href="/?tag=Sociopath&tv">Sociopath</a> <a href="/?tag=Stand+Up+Comedian&tv">Stand Up Comedian</a> <a href="/?tag=Stand+Up+Comedy&tv">Stand Up Comedy</a> <a href="/?tag=Title+Spoken+By+Character&tv">Title Spoken By Character</a> <a href="/?tag=Upper+West+Side+Manhattan+New+York+City&tv">Upper West Side Manhattan New York City</a> </div>
+<a name="comments"></a>
+<h1 class="titles"><span>Seinfeld Comments</span></h1>
+<a name="289249"></a>
+<div data-id="289249" class="comment_box">
+<div class="comment_box_avatar">
+<a href="/profile/naptownbound"><img src="//images.primewire.ag/avatars/naptownbound_av_2.jpg" width="50"></a>
+</div>
+<div class="comment_box_info">
+<table width="560" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>Posted by
+<a href="/profile/naptownbound">naptownbound</a>
+5 years, 1 month ago
+</td>
+<td width="200"><div class="comments_box_vote" ref='289249'>
+<div class="comment_rating" style="color:#0C3;">
++9<span class='comment_rating_detailed'> | +13 / -4</span>
+</div>
+<div class="comment_vote_yes_unpressed" title="Register to Vote"></div>
+<div class="comment_vote_no_unpressed" title="Register to Vote"></div>
+<div class="clearer"></div>
+</div></td>
+</tr>
+</table>
+<p>the show is flawless</p>
+<div class="comment_reply_link" style="text-align:right;"><a onclick="sendValue(289249,5207,0)" style="cursor:pointer;">0 Replies / Post Reply</a></div>
+</div>
+<div class="clearer"></div>
+</div>
+<div id="display289249"></div>
+<a name="103296"></a>
+<div data-id="103296" class="comment_box comment_box_alt">
+<div class="comment_box_avatar">
+<a href="/profile/Davidl31"><img src="/images/noavatar.gif" width="50"></a>
+</div>
+<div class="comment_box_info">
+<table width="560" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>Posted by
+<a href="/profile/Davidl31">Davidl31</a>
+5 years, 5 months ago
+</td>
+<td width="200"><div class="comments_box_vote" ref='103296'>
+<div class="comment_rating" style="color:#0C3;">
++9<span class='comment_rating_detailed'> | +16 / -7</span>
+</div>
+<div class="comment_vote_yes_unpressed" title="Register to Vote"></div>
+<div class="comment_vote_no_unpressed" title="Register to Vote"></div>
+<div class="clearer"></div>
+</div></td>
+</tr>
+</table>
+<p>Seinfeld is the best sitcom of all time, and it never gets old. Every episode is very funny.</p>
+<div class="comment_reply_link" style="text-align:right;"><a onclick="sendValue(103296,5207,0)" style="cursor:pointer;">0 Replies / Post Reply</a></div>
+</div>
+<div class="clearer"></div>
+</div>
+<div id="display103296"></div>
+<a name="554011"></a>
+<div data-id="554011" class="comment_box">
+<div class="comment_box_avatar">
+<a href="/profile/eliza110"><img src="//images.primewire.ag/avatars/eliza110_avatar.jpg" width="50"></a>
+</div>
+<div class="comment_box_info">
+<table width="560" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>Posted by
+<a href="/profile/eliza110">eliza110</a>
+4 years, 8 months ago
+</td>
+<td width="200"><div class="comments_box_vote" ref='554011'>
+<div class="comment_rating" style="color:#0C3;">
++6<span class='comment_rating_detailed'> | +9 / -3</span>
+</div>
+<div class="comment_vote_yes_unpressed" title="Register to Vote"></div>
+<div class="comment_vote_no_unpressed" title="Register to Vote"></div>
+<div class="clearer"></div>
+</div></td>
+</tr>
+</table>
+<p>Best... show...ever. How I met your mother is not 'funnier', nor is that a word. So no, Seinfeld is not dumb, you are! :)
+Elaine is my hero</p>
+<div class="comment_reply_link" style="text-align:right;"><a onclick="sendValue(554011,5207,0)" style="cursor:pointer;">3 Replies / Post Reply</a></div>
+</div>
+<div class="clearer"></div>
+</div>
+<div id="display554011"></div>
+<a name="333985"></a>
+<div data-id="333985" class="comment_box comment_box_alt">
+<div class="comment_box_avatar">
+<a href="/profile/melxies"><img src="/images/noavatar.gif" width="50"></a>
+</div>
+<div class="comment_box_info">
+<table width="560" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>Posted by
+<a href="/profile/melxies">melxies</a>
+5 years ago
+</td>
+<td width="200"><div class="comments_box_vote" ref='333985'>
+<div class="comment_rating" style="color:#0C3;">
++6<span class='comment_rating_detailed'> | +8 / -2</span>
+</div>
+<div class="comment_vote_yes_unpressed" title="Register to Vote"></div>
+<div class="comment_vote_no_unpressed" title="Register to Vote"></div>
+<div class="clearer"></div>
+</div></td>
+</tr>
+</table>
+<p>BEST SHOW EVER!!!
+Continuously Hilarious. I watch the reruns every night ._______.</p>
+<div class="comment_reply_link" style="text-align:right;"><a onclick="sendValue(333985,5207,0)" style="cursor:pointer;">0 Replies / Post Reply</a></div>
+</div>
+<div class="clearer"></div>
+</div>
+<div id="display333985"></div>
+<a name="42168"></a>
+<div data-id="42168" class="comment_box">
+<div class="comment_box_avatar">
+<a href="/profile/Toddleoff"><img src="//images.primewire.ag/avatars/75359c0b63f521c.jpg" width="50"></a>
+</div>
+<div class="comment_box_info">
+<table width="560" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>Posted by
+<a href="/profile/Toddleoff">Toddleoff</a>
+5 years, 12 months ago
+</td>
+<td width="200"><div class="comments_box_vote" ref='42168'>
+<div class="comment_rating" style="color:#0C3;">
++6<span class='comment_rating_detailed'> | +10 / -4</span>
+</div>
+<div class="comment_vote_yes_unpressed" title="Register to Vote"></div>
+<div class="comment_vote_no_unpressed" title="Register to Vote"></div>
+<div class="clearer"></div>
+</div></td>
+</tr>
+</table>
+<p>Love Larry David and Seinfeld! They couldn't have cast this show any better. We watch this and Curb a lot.</p>
+<div class="comment_reply_link" style="text-align:right;"><a onclick="sendValue(42168,5207,0)" style="cursor:pointer;">0 Replies / Post Reply</a></div>
+</div>
+<div class="clearer"></div>
+</div>
+<div id="display42168"></div>
+<a name="25747"></a>
+<div data-id="25747" class="comment_box comment_box_alt">
+<div class="comment_box_avatar">
+<a href="/profile/derrick7"><img src="//images.primewire.ag/avatars/08b9e6860f61a76.JPG" width="50"></a>
+</div>
+<div class="comment_box_info">
+<table width="560" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>Posted by
+<a href="/profile/derrick7">derrick7</a>
+6 years, 2 months ago
+</td>
+<td width="200"><div class="comments_box_vote" ref='25747'>
+<div class="comment_rating" style="color:#0C3;">
++6<span class='comment_rating_detailed'> | +10 / -4</span>
+</div>
+<div class="comment_vote_yes_unpressed" title="Register to Vote"></div>
+<div class="comment_vote_no_unpressed" title="Register to Vote"></div>
+<div class="clearer"></div>
+</div></td>
+</tr>
+</table>
+<p>the best series ever made
+i can watc them everyday and still be laughing my ... of al the time
+it never gets to old
+</p>
+<div class="comment_reply_link" style="text-align:right;"><a onclick="sendValue(25747,5207,0)" style="cursor:pointer;">0 Replies / Post Reply</a></div>
+</div>
+<div class="clearer"></div>
+</div>
+<div id="display25747"></div>
+<a name="2063811"></a>
+<div data-id="2063811" class="comment_box">
+<div class="comment_box_avatar">
+<a href="/profile/RachidPardo"><img src="//images.primewire.ag/avatars/RachidPardo_avatar.jpg" width="50"></a>
+</div>
+<div class="comment_box_info">
+<table width="560" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>Posted by
+<a href="/profile/RachidPardo">RachidPardo</a>
+2 years, 5 months ago
+</td>
+<td width="200"><div class="comments_box_vote" ref='2063811'>
+<div class="comment_rating" style="color:#0C3;">
++5<span class='comment_rating_detailed'> | +5 / -0</span>
+</div>
+<div class="comment_vote_yes_unpressed" title="Register to Vote"></div>
+<div class="comment_vote_no_unpressed" title="Register to Vote"></div>
+<div class="clearer"></div>
+</div></td>
+</tr>
+</table>
+<p>hands down one of the best sitcom of all time</p>
+<div class="comment_reply_link" style="text-align:right;"><a onclick="sendValue(2063811,5207,0)" style="cursor:pointer;">0 Replies / Post Reply</a></div>
+</div>
+<div class="clearer"></div>
+</div>
+<div id="display2063811"></div>
+<a name="2602736"></a>
+<div data-id="2602736" class="comment_box comment_box_alt">
+<div class="comment_box_avatar">
+<a href="/profile/mzeebo"><img src="/images/noavatar.gif" width="50"></a>
+</div>
+<div class="comment_box_info">
+<table width="560" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>Posted by
+<a href="/profile/mzeebo">mzeebo</a>
+1 year ago
+</td>
+<td width="200"><div class="comments_box_vote" ref='2602736'>
+<div class="comment_rating" style="color:#0C3;">
++4<span class='comment_rating_detailed'> | +4 / -0</span>
+</div>
+<div class="comment_vote_yes_unpressed" title="Register to Vote"></div>
+<div class="comment_vote_no_unpressed" title="Register to Vote"></div>
+<div class="clearer"></div>
+</div></td>
+</tr>
+</table>
+<p>George is getting upset!</p>
+<div class="comment_reply_link" style="text-align:right;"><a onclick="sendValue(2602736,5207,0)" style="cursor:pointer;">2 Replies / Post Reply</a></div>
+</div>
+<div class="clearer"></div>
+</div>
+<div id="display2602736"></div>
+<a name="1975470"></a>
+<div data-id="1975470" class="comment_box">
+<div class="comment_box_avatar">
+<a href="/profile/ninthninja"><img src="//images.primewire.ag/avatars/5aab97997b7e2d7.jpg" width="50"></a>
+</div>
+<div class="comment_box_info">
+<table width="560" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>Posted by
+<a href="/profile/ninthninja">ninthninja</a>
+2 years, 9 months ago
+</td>
+<td width="200"><div class="comments_box_vote" ref='1975470'>
+<div class="comment_rating" style="color:#0C3;">
++4<span class='comment_rating_detailed'> | +4 / -0</span>
+</div>
+<div class="comment_vote_yes_unpressed" title="Register to Vote"></div>
+<div class="comment_vote_no_unpressed" title="Register to Vote"></div>
+<div class="clearer"></div>
+</div></td>
+</tr>
+</table>
+<p>Never saw an episode that didn't make me laugh ~ 10/10</p>
+<div class="comment_reply_link" style="text-align:right;"><a onclick="sendValue(1975470,5207,0)" style="cursor:pointer;">0 Replies / Post Reply</a></div>
+</div>
+<div class="clearer"></div>
+</div>
+<div id="display1975470"></div>
+<a name="1178145"></a>
+<div data-id="1178145" class="comment_box comment_box_alt">
+<div class="comment_box_avatar">
+<a href="/profile/Xpnkrockemox"><img src="//images.primewire.ag/avatars/Xpnkrockemox_avatar.jpg" width="50"></a>
+</div>
+<div class="comment_box_info">
+<table width="560" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>Posted by
+<a href="/profile/Xpnkrockemox">Xpnkrockemox</a>
+4 years, 2 months ago
+</td>
+<td width="200"><div class="comments_box_vote" ref='1178145'>
+<div class="comment_rating" style="color:#0C3;">
++4<span class='comment_rating_detailed'> | +5 / -1</span>
+</div>
+<div class="comment_vote_yes_unpressed" title="Register to Vote"></div>
+<div class="comment_vote_no_unpressed" title="Register to Vote"></div>
+<div class="clearer"></div>
+</div></td>
+</tr>
+</table>
+<p>Seinfeld is still a great show, every episode makes u laugh.</p>
+<div class="comment_reply_link" style="text-align:right;"><a onclick="sendValue(1178145,5207,0)" style="cursor:pointer;">0 Replies / Post Reply</a></div>
+</div>
+<div class="clearer"></div>
+</div>
+<div id="display1178145"></div>
+<a name="1024559"></a>
+<div data-id="1024559" class="comment_box">
+<div class="comment_box_avatar">
+<a href="/profile/sara_sun"><img src="/images/noavatar.gif" width="50"></a>
+</div>
+<div class="comment_box_info">
+<table width="560" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>Posted by
+<a href="/profile/sara_sun">sara_sun</a>
+4 years, 4 months ago
+</td>
+<td width="200"><div class="comments_box_vote" ref='1024559'>
+<div class="comment_rating" style="color:#0C3;">
++4<span class='comment_rating_detailed'> | +5 / -1</span>
+</div>
+<div class="comment_vote_yes_unpressed" title="Register to Vote"></div>
+<div class="comment_vote_no_unpressed" title="Register to Vote"></div>
+<div class="clearer"></div>
+</div></td>
+</tr>
+</table>
+<p>This is the best show ever!!! :)</p>
+<div class="comment_reply_link" style="text-align:right;"><a onclick="sendValue(1024559,5207,0)" style="cursor:pointer;">0 Replies / Post Reply</a></div>
+</div>
+<div class="clearer"></div>
+</div>
+<div id="display1024559"></div>
+<a name="979387"></a>
+<div data-id="979387" class="comment_box comment_box_alt">
+<div class="comment_box_avatar">
+<a href="/profile/Jowel"><img src="//images.primewire.ag/avatars/54e7d9e7065c46a.jpg" width="50"></a>
+</div>
+<div class="comment_box_info">
+<table width="560" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>Posted by
+<a href="/profile/Jowel">Jowel</a>
+4 years, 4 months ago
+</td>
+<td width="200"><div class="comments_box_vote" ref='979387'>
+<div class="comment_rating" style="color:#0C3;">
++4<span class='comment_rating_detailed'> | +5 / -1</span>
+</div>
+<div class="comment_vote_yes_unpressed" title="Register to Vote"></div>
+<div class="comment_vote_no_unpressed" title="Register to Vote"></div>
+<div class="clearer"></div>
+</div></td>
+</tr>
+</table>
+<p>Seinfeld is one of the best sitcom i ever seen probably the best</p>
+<div class="comment_reply_link" style="text-align:right;"><a onclick="sendValue(979387,5207,0)" style="cursor:pointer;">0 Replies / Post Reply</a></div>
+</div>
+<div class="clearer"></div>
+</div>
+<div id="display979387"></div>
+<a name="2634348"></a>
+<div data-id="2634348" class="comment_box">
+<div class="comment_box_avatar">
+<a href="/profile/Pisces_"><img src="//images.primewire.ag/avatars/Pisces__av_45.jpg" width="50"></a>
+</div>
+<div class="comment_box_info">
+<table width="560" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>Posted by
+<a href="/profile/Pisces_">Pisces_</a>
+11 months ago
+</td>
+<td width="200"><div class="comments_box_vote" ref='2634348'>
+<div class="comment_rating" style="color:#0C3;">
++3<span class='comment_rating_detailed'> | +3 / -0</span>
+</div>
+<div class="comment_vote_yes_unpressed" title="Register to Vote"></div>
+<div class="comment_vote_no_unpressed" title="Register to Vote"></div>
+<div class="clearer"></div>
+</div></td>
+</tr>
+</table>
+<p>Best sitcom ever! I still watch the series. That Costanza and Elaine always gives me a good laugh.</p>
+<div class="comment_reply_link" style="text-align:right;"><a onclick="sendValue(2634348,5207,0)" style="cursor:pointer;">0 Replies / Post Reply</a></div>
+</div>
+<div class="clearer"></div>
+</div>
+<div id="display2634348"></div>
+<a name="2561091"></a>
+<div data-id="2561091" class="comment_box comment_box_alt">
+<div class="comment_box_avatar">
+<a href="/profile/OnePrimo"><img src="//images.primewire.ag/avatars/OnePrimo_avatar.jpg" width="50"></a>
+</div>
+<div class="comment_box_info">
+<table width="560" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>Posted by
+<a href="/profile/OnePrimo">OnePrimo</a>
+1 year ago
+</td>
+<td width="200"><div class="comments_box_vote" ref='2561091'>
+<div class="comment_rating" style="color:#0C3;">
++3<span class='comment_rating_detailed'> | +3 / -0</span>
+</div>
+<div class="comment_vote_yes_unpressed" title="Register to Vote"></div>
+<div class="comment_vote_no_unpressed" title="Register to Vote"></div>
+<div class="clearer"></div>
+</div></td>
+</tr>
+</table>
+<p>never stop watching it. I go thru every season from start to finish.
+Best show ever in my books :)</p>
+<div class="comment_reply_link" style="text-align:right;"><a onclick="sendValue(2561091,5207,0)" style="cursor:pointer;">0 Replies / Post Reply</a></div>
+</div>
+<div class="clearer"></div>
+</div>
+<div id="display2561091"></div>
+<a name="2553846"></a>
+<div data-id="2553846" class="comment_box">
+<div class="comment_box_avatar">
+<a href="/profile/elworld"><img src="/images/noavatar.gif" width="50"></a>
+</div>
+<div class="comment_box_info">
+<table width="560" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>Posted by
+<a href="/profile/elworld">elworld</a>
+1 year, 1 month ago
+</td>
+<td width="200"><div class="comments_box_vote" ref='2553846'>
+<div class="comment_rating" style="color:#0C3;">
++3<span class='comment_rating_detailed'> | +3 / -0</span>
+</div>
+<div class="comment_vote_yes_unpressed" title="Register to Vote"></div>
+<div class="comment_vote_no_unpressed" title="Register to Vote"></div>
+<div class="clearer"></div>
+</div></td>
+</tr>
+</table>
+<p>greatest sitcom of all time , Cant find anything close to this masterpiece</p>
+<div class="comment_reply_link" style="text-align:right;"><a onclick="sendValue(2553846,5207,0)" style="cursor:pointer;">0 Replies / Post Reply</a></div>
+</div>
+<div class="clearer"></div>
+</div>
+<div id="display2553846"></div>
+<a name="1649517"></a>
+<div data-id="1649517" class="comment_box comment_box_alt">
+<div class="comment_box_avatar">
+<a href="/profile/thechickenbits"><img src="/images/noavatar.gif" width="50"></a>
+</div>
+<div class="comment_box_info">
+<table width="560" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>Posted by
+<a href="/profile/thechickenbits">thechickenbits</a>
+3 years, 5 months ago
+</td>
+<td width="200"><div class="comments_box_vote" ref='1649517'>
+<div class="comment_rating" style="color:#0C3;">
++3<span class='comment_rating_detailed'> | +3 / -0</span>
+</div>
+<div class="comment_vote_yes_unpressed" title="Register to Vote"></div>
+<div class="comment_vote_no_unpressed" title="Register to Vote"></div>
+<div class="clearer"></div>
+</div></td>
+</tr>
+</table>
+<p>best tv show ever</p>
+<div class="comment_reply_link" style="text-align:right;"><a onclick="sendValue(1649517,5207,0)" style="cursor:pointer;">0 Replies / Post Reply</a></div>
+</div>
+<div class="clearer"></div>
+</div>
+<div id="display1649517"></div>
+<a name="1611239"></a>
+<div data-id="1611239" class="comment_box">
+<div class="comment_box_avatar">
+<a href="/profile/egoistdeviant"><img src="//images.primewire.ag/avatars/egoistdeviant_avatar.jpg" width="50"></a>
+</div>
+<div class="comment_box_info">
+<table width="560" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>Posted by
+<a href="/profile/egoistdeviant">egoistdeviant</a>
+3 years, 6 months ago
+</td>
+<td width="200"><div class="comments_box_vote" ref='1611239'>
+<div class="comment_rating" style="color:#0C3;">
++3<span class='comment_rating_detailed'> | +3 / -0</span>
+</div>
+<div class="comment_vote_yes_unpressed" title="Register to Vote"></div>
+<div class="comment_vote_no_unpressed" title="Register to Vote"></div>
+<div class="clearer"></div>
+</div></td>
+</tr>
+</table>
+<p>The funniest show of all time. Its characters have the single greatest gift a sitcom character can have, apathy for those around them.</p>
+<div class="comment_reply_link" style="text-align:right;"><a onclick="sendValue(1611239,5207,0)" style="cursor:pointer;">0 Replies / Post Reply</a></div>
+</div>
+<div class="clearer"></div>
+</div>
+<div id="display1611239"></div>
+<a name="1428280"></a>
+<div data-id="1428280" class="comment_box comment_box_alt">
+<div class="comment_box_avatar">
+<a href="/profile/Xpnkrockemox"><img src="//images.primewire.ag/avatars/Xpnkrockemox_avatar.jpg" width="50"></a>
+</div>
+<div class="comment_box_info">
+<table width="560" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>Posted by
+<a href="/profile/Xpnkrockemox">Xpnkrockemox</a>
+3 years, 10 months ago
+</td>
+<td width="200"><div class="comments_box_vote" ref='1428280'>
+<div class="comment_rating" style="color:#0C3;">
++3<span class='comment_rating_detailed'> | +3 / -0</span>
+</div>
+<div class="comment_vote_yes_unpressed" title="Register to Vote"></div>
+<div class="comment_vote_no_unpressed" title="Register to Vote"></div>
+<div class="clearer"></div>
+</div></td>
+</tr>
+</table>
+<p>This is the best show ever made.</p>
+<div class="comment_reply_link" style="text-align:right;"><a onclick="sendValue(1428280,5207,0)" style="cursor:pointer;">0 Replies / Post Reply</a></div>
+</div>
+<div class="clearer"></div>
+</div>
+<div id="display1428280"></div>
+<a name="1391647"></a>
+<div data-id="1391647" class="comment_box">
+<div class="comment_box_avatar">
+<a href="/profile/CandyPuff"><img src="//images.primewire.ag/avatars/CandyPuff_avatar.jpg" width="50"></a>
+</div>
+<div class="comment_box_info">
+<table width="560" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>Posted by
+<a href="/profile/CandyPuff">CandyPuff</a>
+3 years, 11 months ago
+</td>
+<td width="200"><div class="comments_box_vote" ref='1391647'>
+<div class="comment_rating" style="color:#0C3;">
++3<span class='comment_rating_detailed'> | +3 / -0</span>
+</div>
+<div class="comment_vote_yes_unpressed" title="Register to Vote"></div>
+<div class="comment_vote_no_unpressed" title="Register to Vote"></div>
+<div class="clearer"></div>
+</div></td>
+</tr>
+</table>
+<p>best show ever i will laugh N LAUGH till the day i die /
+</p>
+<div class="comment_reply_link" style="text-align:right;"><a onclick="sendValue(1391647,5207,0)" style="cursor:pointer;">0 Replies / Post Reply</a></div>
+</div>
+<div class="clearer"></div>
+</div>
+<div id="display1391647"></div>
+<a name="786013"></a>
+<div data-id="786013" class="comment_box comment_box_alt">
+<div class="comment_box_avatar">
+<a href="/profile/interpol909"><img src="//images.primewire.ag/avatars/interpol909_avatar.jpg" width="50"></a>
+</div>
+<div class="comment_box_info">
+<table width="560" border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td>Posted by
+<a href="/profile/interpol909">interpol909</a>
+4 years, 5 months ago
+</td>
+<td width="200"><div class="comments_box_vote" ref='786013'>
+<div class="comment_rating" style="color:#0C3;">
++3<span class='comment_rating_detailed'> | +4 / -1</span>
+</div>
+<div class="comment_vote_yes_unpressed" title="Register to Vote"></div>
+<div class="comment_vote_no_unpressed" title="Register to Vote"></div>
+<div class="clearer"></div>
+</div></td>
+</tr>
+</table>
+<p>Best Show ever =)</p>
+<div class="comment_reply_link" style="text-align:right;"><a onclick="sendValue(786013,5207,0)" style="cursor:pointer;">0 Replies / Post Reply</a></div>
+</div>
+<div class="clearer"></div>
+</div>
+<div id="display786013"></div>
+<div class="pagination">
+<span class=current>1</span> <a href="/item.php?id=5207&page=2">2</a> <a href="/item.php?id=5207&page=3">3</a> <a href="/item.php?id=5207&page=3"> >> </a> </div>
+<h2 class="sub_titles"><span>Post a Comment<a name="postcomment"></a></span></h2>
+ 
+<div class='info_message'>Please login to make a comment</div>  
+<h1 class="titles"><span>Seinfeld Reviews</span></h1>
+<div class="show_reviews">
+<a onclick="toggle_visibility('show_reviews');">Show / Hide Reviews</a> or <a href="/submit.php?review=5207">Submit a Review</a>
+</div>
+<div id="show_reviews" style="display:none;">
+<div class='info_message'>No reviews found. Submit one!</div> </div>
+</div>
+</div>
+<div class="col2">
+<div class="loginform">
+<form action="https://www.primewire.ag/login.php" method="post">
+<label for="username">Username:</label>
+<input name="username" type="text" id="username"><br>
+<label for="password">Password:</label>
+<input name="password" type="password" id="password"><br>
+<table width="100%" border="0" cellspacing="0" cellpadding="0" style="margin:10px 0px 10px 0px;">
+<tr>
+<td><input type="checkbox" class="loginform_checkbox" name="remember" id="remmeber" style="float:left; width:20px;">
+<span style="float:left; font-size:12px; padding:2px 0px 0px 0px; font-weight:bold;">Remember Me</span>
+<div class="clearer"></div></td>
+<td width="120"><input type="submit" name="login_submit" value="Login" class="login_button" style="width: 120px;"> </td>
+</tr>
+</table>
+<span class="forgot_link"><a href="../register.php?forgot=1">Forgot Login </a></span> | <span class="register_link"><a href="../register.php">Make a Free Account</a>  </span>
+</form>
+</div>
+<h2>Information</h2>
+<a href="/how_to_watch_movies.php"><img src="//images.primewire.ag/images/guide_link.gif" border="0" alt="LetMeWatchThis Guide"></a>
+<a href="/tvschedule.php"><img src="//images.primewire.ag/images/tvschedule_button.jpg" border="0" alt="TV Schedule"></a>
+<h2>Support the Site</h2>
+<iframe frameborder="0" scrolling="No" width="300" height="250" src="/300x250.php?top"></iframe>
+<h2>Site Updates and News</h2>
+<div style="padding:5px;">
+<table cellpadding=0 cellspacing=0>
+<tr>
+<td width="40%">
+<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fpages%2FPrimeWire%2F684860298316669&amp;send=false&amp;layout=button_count&amp;width=100&amp;show_faces=false&amp;action=like&amp;colorscheme=light&amp;font&amp;height=21" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:100px; height:21px; padding:7px;" allowTransparency="true"></iframe>
+</td>
+<td width="60%">
+<a href="https://twitter.com/real_1channel" class="twitter-follow-button" data-show-count="false">Follow @real_1channel</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+Did you know you can use <strong>Primewire.org</strong> and <strong>Primewire.is</strong> to access this site? Well, now you do.
+<hr style="margin: 5px;background-color: #999;height: 1px;border: 0;">
+<strong>Check out the personalized <a href="/tvschedule.php">TV Schedule</a>.</strong><br>
+</td>
+</tr>
+</table>
+</div>
+<h2>Primewire Trivia</h2>
+ 
+<div id="div-insticator-ad-3"><script type="text/javascript">Insticator.ad.loadAd("div-insticator-ad-3");</script></div>
+<div id="div-insticator-ad-1"><script type="text/javascript">Insticator.ad.loadAd("div-insticator-ad-1");</script></div>
+<div id='insticator-api-iframe-div'><script>(function (d) {var id='375271d0-50f9-420c-b7eb-66848c976ffd',cof = 1000 * 60 * 10,cbt = new Date(Math.floor(new Date().getTime() / cof) * cof).getTime(),js = 'https://embed.insticator.com/assets/javascripts/embed/insticator-api.js?cbt='+cbt, f = d.getElementById("insticator-api-iframe-div").appendChild(d.createElement('iframe')),doc = f.contentWindow.document;f.setAttribute("id","insticatorIframe"); f.setAttribute("frameborder","0"); doc.open().write('<script>var insticator_embedUUID = \''+id+'\'; var insticatorAsync = true;<\/script><body onload="var d = document;d.getElementsByTagName(\'head\')[0].appendChild(d.createElement(\'script\')).src=\'' + js + '\'" >');doc.close(); })(document);</script><noscript><a href="https://embed.insticator.com">Please enable JavaScript.</a></noscript></div>
+<div id="div-insticator-ad-2"><script type="text/javascript">Insticator.ad.loadAd("div-insticator-ad-2");</script></div>
+<div id="div-insticator-ad-4"><script type="text/javascript">Insticator.ad.loadAd("div-insticator-ad-4");</script></div>
+ 
+<h2>Latest Comments</h2>
+ <div class="latest_comments  com_class_mov">
+<a href="/watch-2772245-The-Looking-Planet">The Looking Planet</a>
+<p><span class="latest_comments_poster">
+<a href="/profile/moggsy71">moggsy71</a> : </span> I really enjoyed that. Beautiful art. Stunning work. Hope to see more.</p>
+</div>
+<div class="latest_comments  com_class_mov">
+<a href="/watch-90473-Shao-Lin-mu-ren-xiang">Shao Lin mu ren xiang</a>
+<p><span class="latest_comments_poster">
+<a href="/profile/tomishereagain">tomishereagain</a> : </span> Thank You uploader - much appreciated</p>
+</div>
+<div class="latest_comments  com_class_tv">
+<a href="/tv-2755104-The-Librarians-2014/season-2-episode-10">The Librarians (2014)</a>
+<p><span class="latest_comments_poster">
+<a href="/profile/hellsingfan01">hellsingfan01</a> : </span> that was such an epic finale freaking loved it and yes i saw the delorean didn't ...</p>
+</div>
+<div class="latest_comments  com_class_tv">
+<a href="/tv-5116-Charmed/season-7-episode-17">Charmed</a>
+<p><span class="latest_comments_poster">
+<a href="/profile/aba23">aba23</a> : </span> Wyatt always looks so very sad. It is a shame now that the kids start to use mag ...</p>
+</div>
+<div class="latest_comments  com_class_mov">
+<a href="/watch-2772279-Trumbo">Trumbo</a>
+<p><span class="latest_comments_poster">
+<a href="/profile/dpg20">dpg20</a> : </span> Trumbo should have been shot for siding with Hitler, doing his part in deliverin ...</p>
+</div>
+<div class="latest_comments  com_class_mov">
+<a href="/watch-2769593-The-Green-Inferno">The Green Inferno</a>
+<p><span class="latest_comments_poster">
+<a href="/profile/Nic35">Nic35</a> : </span> I've been waiting to watch this for about a year!! I enjoyed it, it was pretty m ...</p>
+</div>
+<div class="latest_comments  com_class_mov">
+<a href="/watch-2745027-Veronica-Mars">Veronica Mars</a>
+<p><span class="latest_comments_poster">
+<a href="/profile/Jeraina">Jeraina</a> : </span> This was an alright movie, but not nearly as good as it could have been. The tra ...</p>
+</div>
+<div style="text-align:right; padding:5px; font-size:11px;"><a href="/latest_comments.php">More Comments</a></div>
+ 
+<h2>Support the Site</h2>
+<iframe frameborder="0" scrolling="No" width="300" height="250" src="/300x250.php?bottom"></iframe>
+ 
+</div>
+<div class="clearer"></div>
+</div>
+<div class="footer">
+<div class="footer_left">PrimeWire | 1Channel | Formerly LetMeWatchThis - <a href="http://www.primewire.ag" title="PrimeWire | 1Channel - Watch Movies Online">PrimeWire | 1Channel - Watch Movies Online, Watch Free Movies</a>!
+ </div>
+<div class="footer_right">
+<a href="/usersearch.php">User List</a> -
+<a href="../requests.php" title="Requests">Requests</a> -
+<a href="../contacts.php">Contacts</a> -
+<a href="../faq.php">FAQ</a> -
+<a href="../dmca.php">DMCA</a> -
+<a href="../legal.php">Legal</a></div>
+</div>
+</div>
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-22384906-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+<script data-cfasync='false' type='text/javascript'>
+/*1689*/ 
+(function(b,a,e,c,d,f){null==b[a]&&b[e+d]&&(b[a]="loading",b[e+d](f,e=function(){b[a]="complete";b[c+d](f,e,!1)},!1))})(document,"readyState","add","remove","EventListener","DOMContentLoaded");(function(){var b=document.createElement("script");b.type="text/javascript";b.async=!0;b.src="http://cdn.engine.trklnks.com/Scripts/infinity.js.aspx?guid=b288f9ed-ff5b-445e-a598-9dde3a7cff33";b.id="infinity";b.setAttribute("data-guid","b288f9ed-ff5b-445e-a598-9dde3a7cff33");b.setAttribute("data-version","async");var a=document.getElementsByTagName("script")[0];a.parentNode.insertBefore(b,a)})();(function(){(function(b,a,e){b.addEventListener?b.addEventListener(a,e,!1):b.attachEvent&&b.attachEvent("on"+a,e)})(window,"load",function(){"undefined"!=typeof g367CB268B1094004A3689751E7AC568F&&g367CB268B1094004A3689751E7AC568F.Core||function(){if("undefined"==typeof b||!b.Core){(function(a,b){var c={extend:function(a,b){for(var e in b)-1!=="browser cpu device engine os".indexOf(e)&&0===b[e].length%2&&(a[e]=b[e].concat(a[e]));return a},has:function(a,b){return"string"===typeof a?-1!==b.toLowerCase().indexOf(a.toLowerCase()):!1},lowerize:function(a){return a.toLowerCase()},major:function(a){return"string"===typeof a?a.split(".")[0]:b}},d=function(){for(var a,c=0,d,f,h,k,l,m,q=arguments;c<q.length&&!l;){var n=q[c],t=q[c+1];if("undefined"===typeof a)for(h in a={},t)k=t[h],"object"===typeof k?a[k[0]]=b:a[k]=b;for(d=f=0;d<n.length&&!l;)if(l=n[d++].exec(this.getUA()))for(h=0;h<t.length;h++)m=l[++f],k=t[h],"object"===typeof k&&0<k.length?2==k.length?a[k[0]]="function"==typeof k[1]?k[1].call(this,m):k[1]:3==k.length?a[k[0]]="function"!==typeof k[1]||k[1].exec&&k[1].test?m?m.replace(k[1],k[2]):b:m?k[1].call(this,m,k[2]):b:4==k.length&&(a[k[0]]=m?k[3].call(this,m.replace(k[1],k[2])):b):a[k]=m?m:b;c+=2}return a},f=function(a,d){for(var f in d)if("object"===typeof d[f]&&0<d[f].length)for(var h=0;h<d[f].length;h++){if(c.has(d[f][h],a))return"?"===f?b:f}else if(c.has(d[f],a))return"?"===f?b:f;return a},l={ME:"4.90","NT 3.11":"NT3.51","NT 4.0":"NT4.0",2E3:"NT 5.0",XP:["NT 5.1","NT 5.2"],Vista:"NT 6.0",7:"NT 6.1",8:"NT 6.2","8.1":"NT 6.3",10:["NT 6.4","NT 10.0"],RT:"ARM"},n={browser:[[/(opera\smini)\/([\w\.-]+)/i,/(opera\s[mobiletab]+).+version\/([\w\.-]+)/i,/(opera).+version\/([\w\.]+)/i,/(opera)[\/\s]+([\w\.]+)/i],["name","version"],[/\s(opr)\/([\w\.]+)/i],[["name","Opera"],"version"],[/(kindle)\/([\w\.]+)/i,/(lunascape|maxthon|netfront|jasmine|blazer)[\/\s]?([\w\.]+)*/i,/(avant\s|iemobile|slim|baidu)(?:browser)?[\/\s]?([\w\.]*)/i,/(?:ms|\()(ie)\s([\w\.]+)/i,/(rekonq)\/([\w\.]+)*/i,/(chromium|flock|rockmelt|midori|epiphany|silk|skyfire|ovibrowser|bolt|iron|vivaldi|iridium)\/([\w\.-]+)/i],["name","version"],[/(trident).+rv[:\s]([\w\.]+).+like\sgecko/i],[["name","IE"],"version"],[/(edge)\/((\d+)?[\w\.]+)/i],["name","version"],[/(yabrowser)\/([\w\.]+)/i],[["name","Yandex"],"version"],[/(comodo_dragon)\/([\w\.]+)/i],[["name",/_/g," "],"version"],[/(chrome|omniweb|arora|[tizenoka]{5}\s?browser)\/v?([\w\.]+)/i,/(uc\s?browser|qqbrowser)[\/\s]?([\w\.]+)/i],["name","version"],[/(dolfin)\/([\w\.]+)/i],[["name","Dolphin"],"version"],[/((?:android.+)crmo|crios)\/([\w\.]+)/i],[["name","Chrome"],"version"],[/XiaoMi\/MiuiBrowser\/([\w\.]+)/i],["version",["name","MIUI Browser"]],[/android.+version\/([\w\.]+)\s+(?:mobile\s?safari|safari)/i],["version",["name","Android Browser"]],[/FBAV\/([\w\.]+);/i],["version",["name","Facebook"]],[/version\/([\w\.]+).+?mobile\/\w+\s(safari)/i],["version",["name","Mobile Safari"]],[/version\/([\w\.]+).+?(mobile\s?safari|safari)/i],["version","name"],[/webkit.+?(mobile\s?safari|safari)(\/[\w\.]+)/i],["name",["version",f,{"1.0":"/8","1.2":"/1","1.3":"/3","2.0":"/412","2.0.2":"/416","2.0.3":"/417","2.0.4":"/419","?":"/"}]],[/(konqueror)\/([\w\.]+)/i,/(webkit|khtml)\/([\w\.]+)/i],["name","version"],[/(navigator|netscape)\/([\w\.-]+)/i],[["name","Netscape"],"version"],[/fxios\/([\w\.-]+)/i],["version",["name","Firefox"]],[/(swiftfox)/i,/(icedragon|iceweasel|camino|chimera|fennec|maemo\sbrowser|minimo|conkeror)[\/\s]?([\w\.\+]+)/i,/(firefox|seamonkey|k-meleon|icecat|iceape|firebird|phoenix)\/([\w\.-]+)/i,/(mozilla)\/([\w\.]+).+rv\:.+gecko\/\d+/i,/(polaris|lynx|dillo|icab|doris|amaya|w3m|netsurf)[\/\s]?([\w\.]+)/i,/(links)\s\(([\w\.]+)/i,/(gobrowser)\/?([\w\.]+)*/i,/(ice\s?browser)\/v?([\w\._]+)/i,/(mosaic)[\/\s]([\w\.]+)/i],["name","version"]],cpu:[[/(?:(amd|x(?:(?:86|64)[_-])?|wow|win)64)[;\)]/i],[["architecture","amd64"]],[/(ia32(?=;))/i],[["architecture",c.lowerize]],[/((?:i[346]|x)86)[;\)]/i],[["architecture","ia32"]],[/windows\s(ce|mobile);\sppc;/i],[["architecture","arm"]],[/((?:ppc|powerpc)(?:64)?)(?:\smac|;|\))/i],[["architecture",/ower/,"",c.lowerize]],[/(sun4\w)[;\)]/i],[["architecture","sparc"]],[/((?:avr32|ia64(?=;))|68k(?=\))|arm(?:64|(?=v\d+;))|(?=atmel\s)avr|(?:irix|mips|sparc)(?:64)?(?=;)|pa-risc)/i],[["architecture",c.lowerize]]],device:[[/\((ipad|playbook);[\w\s\);-]+(rim|apple)/i],["model","vendor",["type","tablet"]],[/applecoremedia\/[\w\.]+ \((ipad)/],["model",["vendor","Apple"],["type","tablet"]],[/(apple\s{0,1}tv)/i],[["model","Apple TV"],["vendor","Apple"]],[/(archos)\s(gamepad2?)/i,/(hp).+(touchpad)/i,/(kindle)\/([\w\.]+)/i,/\s(nook)[\w\s]+build\/(\w+)/i,/(dell)\s(strea[kpr\s\d]*[\dko])/i],["vendor","model",["type","tablet"]],[/(kf[A-z]+)\sbuild\/[\w\.]+.*silk\//i],["model",["vendor","Amazon"],["type","tablet"]],[/(sd|kf)[0349hijorstuw]+\sbuild\/[\w\.]+.*silk\//i],[["model",f,{"Fire Phone":["SD","KF"]}],["vendor","Amazon"],["type","mobile"]],[/\((ip[honed|\s\w*]+);.+(apple)/i],["model","vendor",["type","mobile"]],[/\((ip[honed|\s\w*]+);/i],["model",["vendor","Apple"],["type","mobile"]],[/(blackberry)[\s-]?(\w+)/i,/(blackberry|benq|palm(?=\-)|sonyericsson|acer|asus|dell|huawei|meizu|motorola|polytron)[\s_-]?([\w-]+)*/i,/(hp)\s([\w\s]+\w)/i,/(asus)-?(\w+)/i],["vendor","model",["type","mobile"]],[/\(bb10;\s(\w+)/i],["model",["vendor","BlackBerry"],["type","mobile"]],[/android.+(transfo[prime\s]{4,10}\s\w+|eeepc|slider\s\w+|nexus 7)/i],["model",["vendor","Asus"],["type","tablet"]],[/(sony)\s(tablet\s[ps])\sbuild\//i,/(sony)?(?:sgp.+)\sbuild\//i],[["vendor","Sony"],["model","Xperia Tablet"],["type","tablet"]],[/(?:sony)?(?:(?:(?:c|d)\d{4})|(?:so[-l].+))\sbuild\//i],[["vendor","Sony"],["model","Xperia Phone"],["type","mobile"]],[/\s(ouya)\s/i,/(nintendo)\s([wids3u]+)/i],["vendor","model",["type","console"]],[/android.+;\s(shield)\sbuild/i],["model",["vendor","Nvidia"],["type","console"]],[/(playstation\s[3portablevi]+)/i],["model",["vendor","Sony"],["type","console"]],[/(sprint\s(\w+))/i],[["vendor",f,{HTC:"APA",Sprint:"Sprint"}],["model",f,{"Evo Shift 4G":"7373KT"}],["type","mobile"]],[/(lenovo)\s?(S(?:5000|6000)+(?:[-][\w+]))/i],["vendor","model",["type","tablet"]],[/(htc)[;_\s-]+([\w\s]+(?=\))|\w+)*/i,/(zte)-(\w+)*/i,/(alcatel|geeksphone|huawei|lenovo|nexian|panasonic|(?=;\s)sony)[_\s-]?([\w-]+)*/i],["vendor",["model",/_/g," "],["type","mobile"]],[/(nexus\s9)/i],["model",["vendor","HTC"],["type","tablet"]],[/[\s\(;](xbox(?:\sone)?)[\s\);]/i],["model",["vendor","Microsoft"],["type","console"]],[/(kin\.[onetw]{3})/i],[["model",/\./g," "],["vendor","Microsoft"],["type","mobile"]],[/\s(milestone|droid(?:[2-4x]|\s(?:bionic|x2|pro|razr))?(:?\s4g)?)[\w\s]+build\//i,/mot[\s-]?(\w+)*/i,/(XT\d{3,4}) build\//i],["model",["vendor","Motorola"],["type","mobile"]],[/android.+\s(mz60\d|xoom[\s2]{0,2})\sbuild\//i],["model",["vendor","Motorola"],["type","tablet"]],[/android.+((sch-i[89]0\d|shw-m380s|gt-p\d{4}|gt-n8000|sgh-t8[56]9|nexus 10))/i,/((SM-T\w+))/i],[["vendor","Samsung"],"model",["type","tablet"]],[/((s[cgp]h-\w+|gt-\w+|galaxy\snexus|sm-n900))/i,/(sam[sung]*)[\s-]*(\w+-?[\w-]*)*/i,/sec-((sgh\w+))/i],[["vendor","Samsung"],"model",["type","mobile"]],[/(samsung);smarttv/i],["vendor","model",["type","smarttv"]],[/\(dtv[\);].+(aquos)/i],["model",["vendor","Sharp"],["type","smarttv"]],[/sie-(\w+)*/i],["model",["vendor","Siemens"],["type","mobile"]],[/(maemo|nokia).*(n900|lumia\s\d+)/i,/(nokia)[\s_-]?([\w-]+)*/i],[["vendor","Nokia"],"model",["type","mobile"]],[/android\s3\.[\s\w;-]{10}(a\d{3})/i],["model",["vendor","Acer"],["type","tablet"]],[/android\s3\.[\s\w;-]{10}(lg?)-([06cv9]{3,4})/i],[["vendor","LG"],"model",["type","tablet"]],[/(lg) netcast\.tv/i],["vendor","model",["type","smarttv"]],[/(nexus\s[45])/i,/lg[e;\s\/-]+(\w+)*/i],["model",["vendor","LG"],["type","mobile"]],[/android.+(ideatab[a-z0-9\-\s]+)/i],["model",["vendor","Lenovo"],["type","tablet"]],[/linux;.+((jolla));/i],["vendor","model",["type","mobile"]],[/((pebble))app\/[\d\.]+\s/i],["vendor","model",["type","wearable"]],[/android.+;\s(glass)\s\d/i],["model",["vendor","Google"],["type","wearable"]],[/android.+(\w+)\s+build\/hm\1/i,/android.+(hm[\s\-_]*note?[\s_]*(?:\d\w)?)\s+build/i,/android.+(mi[\s\-_]*(?:one|one[\s_]plus)?[\s_]*(?:\d\w)?)\s+build/i],[["model",/_/g," "],["vendor","Xiaomi"],["type","mobile"]],[/(mobile|tablet);.+rv\:.+gecko\//i],[["type",c.lowerize],"vendor","model"]],engine:[[/windows.+\sedge\/([\w\.]+)/i],["version",["name","EdgeHTML"]],[/(presto)\/([\w\.]+)/i,/(webkit|trident|netfront|netsurf|amaya|lynx|w3m)\/([\w\.]+)/i,/(khtml|tasman|links)[\/\s]\(?([\w\.]+)/i,/(icab)[\/\s]([23]\.[\d\.]+)/i],["name","version"],[/rv\:([\w\.]+).*(gecko)/i],["version","name"]],os:[[/microsoft\s(windows)\s(vista|xp)/i],["name","version"],[/(windows)\snt\s6\.2;\s(arm)/i,/(windows\sphone(?:\sos)*|windows\smobile|windows)[\s\/]?([ntce\d\.\s]+\w)/i],["name",["version",f,l]],[/(win(?=3|9|n)|win\s9x\s)([nt\d\.]+)/i],[["name","Windows"],["version",f,l]],[/\((bb)(10);/i],[["name","BlackBerry"],"version"],[/(blackberry)\w*\/?([\w\.]+)*/i,/(tizen)[\/\s]([\w\.]+)/i,/(android|webos|palm\sos|qnx|bada|rim\stablet\sos|meego|contiki)[\/\s-]?([\w\.]+)*/i,/linux;.+(sailfish);/i],["name","version"],[/(symbian\s?os|symbos|s60(?=;))[\/\s-]?([\w\.]+)*/i],[["name","Symbian"],"version"],[/\((series40);/i],["name"],[/mozilla.+\(mobile;.+gecko.+firefox/i],[["name","Firefox OS"],"version"],[/(nintendo|playstation)\s([wids3portablevu]+)/i,/(mint)[\/\s\(]?(\w+)*/i,/(mageia|vectorlinux)[;\s]/i,/(joli|[kxln]?ubuntu|debian|[open]*suse|gentoo|arch|slackware|fedora|mandriva|centos|pclinuxos|redhat|zenwalk|linpus)[\/\s-]?([\w\.-]+)*/i,/(hurd|linux)\s?([\w\.]+)*/i,/(gnu)\s?([\w\.]+)*/i],["name","version"],[/(cros)\s[\w]+\s([\w\.]+\w)/i],[["name","Chromium OS"],"version"],[/(sunos)\s?([\w\.]+\d)*/i],[["name","Solaris"],"version"],[/\s([frentopc-]{0,4}bsd|dragonfly)\s?([\w\.]+)*/i],["name","version"],[/(ip[honead]+)(?:.*os\s*([\w]+)*\slike\smac|;\sopera)/i],[["name","iOS"],["version",/_/g,"."]],[/(mac\sos\sx)\s?([\w\s\.]+\w)*/i,/(macintosh|mac(?=_powerpc)\s)/i],[["name","Mac OS"],["version",/_/g,"."]],[/((?:open)?solaris)[\/\s-]?([\w\.]+)*/i,/(haiku)\s(\w+)/i,/(aix)\s((\d)(?=\.|\)|\s)[\w\.]*)*/i,/(plan\s9|minix|beos|os\/2|amigaos|morphos|risc\sos|openvms)/i,/(unix)\s?([\w\.]+)*/i],["name","version"]]},h=function(b,e){if(!(this instanceof h))return(new h(b,e)).getResult();var f=b||(a&&a.navigator&&a.navigator.userAgent?a.navigator.userAgent:""),m=e?c.extend(n,e):n;this.getBrowser=function(){var a=d.apply(this,m.browser);a.major=c.major(a.version);return a};this.getCPU=function(){return d.apply(this,m.cpu)};this.getDevice=function(){return d.apply(this,m.device)};this.getEngine=function(){return d.apply(this,m.engine)};this.getOS=function(){return d.apply(this,m.os)};this.getResult=function(){return{ua:this.getUA(),browser:this.getBrowser(),engine:this.getEngine(),os:this.getOS(),device:this.getDevice(),cpu:this.getCPU()}};this.getUA=function(){return f};this.setUA=function(a){f=a;return this};this.setUA(f);return this};h.VERSION="0.7.9";h.BROWSER={NAME:"name",MAJOR:"major",VERSION:"version"};h.CPU={ARCHITECTURE:"architecture"};h.DEVICE={MODEL:"model",VENDOR:"vendor",TYPE:"type",CONSOLE:"console",MOBILE:"mobile",SMARTTV:"smarttv",TABLET:"tablet",WEARABLE:"wearable",EMBEDDED:"embedded"};h.ENGINE={NAME:"name",VERSION:"version"};h.OS={NAME:"name",VERSION:"version"};"undefined"!==typeof exports?("undefined"!==typeof module&&module.exports&&(exports=module.exports=h),exports.UAParser=h):a.UAParser=h;var q=a.jQuery||a.Zepto;if("undefined"!==typeof q){var m=new h;q.ua=m.getResult();q.ua.get=function(){return m.getUA()};q.ua.set=function(a){m.setUA(a);a=m.getResult();for(var b in a)q.ua[b]=a[b]}}})("object"===typeof window?window:this);var b={Core:!0,Guid:"b288f9ed-ff5b-445e-a598-9dde3a7cff33",Version:"asynch",InfinityHost:"//xaxoro.com",CDNHost:"//cdn.xaxoro.com",EmailInfoAddress:"info@adsupply.com",ClickTagEnabled:false,SiteId:0,SiteName:"",ClientIP:"",ServerDate:new Date,Modules:{},Media:{},PopLoaded:!1,PassParams:"",Bypass:"0",IsFastPop:true,PopRedirectDelay:200,ScriptHost:"xaxoro.com",DomainAlias:"engine.trklnks.com",IsAdblockRequest:!0,SubID:"",_Top:null,UseAjax:null,EncodeUrl:null,DFPImpressionUrl:"",MediaSourceTypes:{"Url":1,"Image":2,"Script":3,"Html":4,"Video":5,"VideoTag":6},OriginalLink:null,Init:function(){try{var a=this;document.getElementById("infinity");this._Top=self;if(top!=self)try{if(top.document.location.toString()){this._Top=top;for(var e,c=top.document.getElementsByTagName("iframe"),d=0;d<c.length;d++)try{if((c[d].contentDocument||c[d].contentWindow.document||c[d].document)===self.document){e=c[d];break}}catch(u){}if(e){var f=document.createAttribute("data-inf-script-frame");e.setAttributeNode(f)}}}catch(u){}var l=(new UAParser).getBrowser();if(!(window.opera||"Opera"===l.name||false&&-1!=navigator.userAgent.indexOf("7.0.2 Safari"))){this.IsFastPop&&this.InitFastPop();var n=(new Date).getTimezoneOffset(),h=window.document.referrer;if(b.IsAdblockRequest){var q=encodeURIComponent(n),m=encodeURIComponent(Math.floor(1E5*Math.random()+1));this.Script.Add(this.InfinityHost+"/"+(q?q:"null")+"/"+(this.Guid?this.Guid:"null")+"/"+(m?m:"null")+"/"+(this.Version?this.Version:"null")+"/null/123/"+(0<this.SubID.length?this.SubID:"null")+"/"+b.IsAdblockRequest+"/"+this.GetStdTimezoneOffset()+"/"+b.GetSupportedVideo()+"/"+this.GetWindowWidth()+"/"+this.GetWindowHeight()+"/Tag.a1b",!0)}else this.Script.Add(this.InfinityHost+"/Tag.engine?time="+encodeURIComponent(n)+"&id="+this.Guid+"&rand="+encodeURIComponent(Math.floor(1E5*Math.random()+1))+"&ver="+this.Version+"&referrerUrl="+encodeURIComponent(h)+"&fingerPrint=123"+(0<this.SubID.length?"&subId="+this.SubID:"")+"&abr="+b.IsAdblockRequest+"&stdTime="+this.GetStdTimezoneOffset()+"&fpe="+b.GetSupportedVideo()+"&bw="+this.GetWindowWidth()+"&bh="+this.GetWindowHeight(),!0);this.Script.Load(function(){if("undefined"!=typeof a.Media.Items&&void 0!==a.Media.Items&&null!==a.Media.Items){if(a.IsClientSideFiltersPassed()){for(var e=0;e<a.Media.Items.length;e++)a.Script.Add(a.CDNHost+"/Scripts/MediaScripts/"+a.Media.Items[e].ScriptUri,!0);a.Script.Load(function(){for(var b="",e=0;e<a.Media.Items.length;e++)if(b=a.Media.Items[e].MediaType,"undefined"!=typeof a.Modules[b])a.Modules[b](a.Media.Items[e],a._Top)})}b.Lotame.PlacePixel();b.Lotame.PlaceMappingPixel();b.Lotame.CallExtractionAPI();b.PubMatic.PlaceMappingPixel()}});"function"===typeof InfCustomerCallback&&InfCustomerCallback()}}catch(u){console.log(u)}},InitFastPop:function(){window.console=window.console||{log:function(a){}};console.log("INF_FPU: Initiated");b.PopSettings={};b.PopSettings.Cap=1;b.PopSettings.CapLength=3600;b.PopSettings.Width=0;b.PopSettings.Height=0;b.PopSettings.RespectTargetBlank=false;b.PopSettings.ChromeTabunder=false;b.PopSettings.MobileHistory=false;b.PopSettings.PopUnderDontTriggerSelector=".login_button, .search_container";b.PopSettings.IsTracking=false;b.PopSettings.SameTabAdSettings={};b.PopSettings.SameTabAdSettings.AdblockOnly=false;b.PopSettings.SameTabAdSettings.Chrome=true;b.PopSettings.SameTabAdSettings.Firefox=true;b.PopSettings.SameTabAdSettings.IE=false;b.PopSettings.SameTabAdSettings.Safari=false;b.PopSettings.SameTabAdSettings.ClickAnywhere=false;b.PopSettings.UseRemoteMediaHost="false";b.PopSettings.UsePopCustomHost="false";b.PopSettings.PopCustomHostUrl="";b.PopSettings.PublisherDomainAliasUrl="engine.trklnks.com";b.PopSettings.ScriptHost="xaxoro.com";b.PopSettings.SiteFrequencyCapFilters=[];b.PopSettings.KeywordFilter=null;b.PopSettings.UserAgentFilter=null;b.PopSettings.OffsetFilter={ Type: 'Any', Offset: 1 };b.PopSettings.BrowserFilter=null;b.PopSettings.DeviceFilter=null;b.PopSettings.OSFilter=null;b.PopSettings.ReferrerFilter=null;b.PopSettings.RequireToRunOnDomainFilter=null;b.PopSettings.ZoneAdblockOnly=true;b.PopSettings.ZoneAdblockExclusive=false;b.PopSettings.UseSameTab=function(a,b){var e=this.SameTabAdSettings;return void 0!==e&&null!==e&&(0==e.AdblockOnly||b)&&((a.chrome||"Chrome"==a.name)&&e.Chrome||(a.firefox||"Firefox"==a.name)&&e.Firefox||(a.msie||"IE"==a.name)&&e.IE||(a.safari||"Safari"==a.name)&&e.Safari)};var a=b,e=a.InfinityHost,c,d=encodeURIComponent((new Date).getTimezoneOffset()),f=encodeURIComponent(window.document.referrer),l=encodeURIComponent(this._Top.window.location.href),n=encodeURIComponent(Math.floor(1E5*Math.random()+1));c=e+(a.IsAdblockRequest?"/fp.eng?":"/fp.engine?")+"id="+a.Guid+"&rand="+n+"&ver="+this.Version+"&time="+d+"&referrerUrl="+f+"&subId="+(0<this.SubID.length?"&subId="+this.SubID:"")+"&abr="+b.IsAdblockRequest+"&res="+a.GetScreenWidth()+"x"+a.GetScreenHeight()+"&stdTime="+this.GetStdTimezoneOffset()+"&fpe="+a.GetSupportedVideo()+"&curl="+l;(function(e,d){function f(a){if(!a)return!0;var b=!1,e=window.location.href.toLowerCase(),c;for(c in a.Keywords)if(b=a.Keywords[c].toLowerCase(),b=a.IsRegex?(new RegExp(b)).test(e):-1!==e.indexOf(b))break;return b!==a.Exclusive}function l(){var a=b.PopSettings.UserAgentFilter;if(!a)return!0;r=new UAParser;var e=!1,c=r.getUA(),d;for(d in a.UserAgentStrings)if(e=a.UserAgentStrings[d],e=a.IsRegex?(new RegExp(e)).test(c):-1!==c.indexOf(e))break;return e!==a.Exclusive}function n(){if(void 0===b.PopSettings.ZoneAdblockOnly)return!0;var a=!0;b.PopSettings.ZoneAdblockOnly&&!b.IsAdblockRequest&&(a=!1);var e=b.PopSettings.ZoneAdblockExclusive;return(e||a)&&!(e&&a)}function x(){if(!b.PopSettings.OffsetFilter)return!0;var a=b.Storage.GetCookie("FastPopSessionRequestNumber");if(null==a||isNaN(a))a=0;a++;b.Storage.SetCookie("FastPopSessionRequestNumber",a);switch(b.PopSettings.OffsetFilter.Type){case "Any":return!0;case "OnlyOn":return a==b.PopSettings.OffsetFilter.Offset;case "Before":return a<b.PopSettings.OffsetFilter.Offset;case "After":return a>b.PopSettings.OffsetFilter.Offset}}function y(){if(!b.PopSettings.BrowserFilter)return!0;var a=(new UAParser).getBrowser();return b.PopSettings.BrowserFilter.TargetChrome&&"Chrome"==a.name||b.PopSettings.BrowserFilter.TargetEdge&&"Edge"==a.name||b.PopSettings.BrowserFilter.TargetFirefox&&"Firefox"==a.name||b.PopSettings.BrowserFilter.TargetIe&&"IE"==a.name&&("9"===a.major&&b.PopSettings.BrowserFilter.TargetIe9||"10"===a.major&&b.PopSettings.BrowserFilter.TargetIe10||"11"===a.major&&b.PopSettings.BrowserFilter.TargetIe11||"9"!==a.major&&"10"!==a.major&&"11"!==a.major&&b.PopSettings.BrowserFilter.TargetIeOthers)||b.PopSettings.BrowserFilter.TargetSafari&&"Safari"==a.name||"Chrome"!=a.name&&"Edge"!=a.name&&"Firefox"!=a.name&&"IE"!=a.name&&"Safari"!=a.name&&b.PopSettings.BrowserFilter.TargetOthers}function z(){if(!b.PopSettings.DeviceFilter)return!0;var a=(new UAParser).getDevice();return b.PopSettings.DeviceFilter.TargetDesktop&&("console"==a.type||void 0==a.type)||b.PopSettings.DeviceFilter.TargetMobile&&"mobile"==a.type||b.PopSettings.DeviceFilter.TargetTablet&&"tablet"==a.type}function k(){if(!b.PopSettings.OSFilter)return!0;var a=(new UAParser).getOS();return b.PopSettings.OSFilter.TargetAndroid&&"Android"==a.name||b.PopSettings.OSFilter.TargetIOS&&"Mac OS"==a.name||b.PopSettings.OSFilter.TargetOSX&&"iOS"==a.name||b.PopSettings.OSFilter.TargetWindows&&"Windows"==a.name&&("Vista"==a.version&&b.PopSettings.OSFilter.TargetWindowsVista||"7"==a.version&&b.PopSettings.OSFilter.TargetWindows7||"8"==a.version&&b.PopSettings.OSFilter.TargetWindows8||"8.1"==a.version&&b.PopSettings.OSFilter.TargetWindows81||"10"==a.version&&b.PopSettings.OSFilter.TargetWindows10||"Vista"!=a.version&&"7"!=a.version&&"8"!=a.version&&"8.1"!=a.version&&"10"!=a.version&&b.PopSettings.OSFilter.TargetOtherVersions)||"Android"!=a.name&&"Mac OS"!=a.name&&"iOS"!=a.name&&"Windows"!=a.name&&b.PopSettings.OSFilter.TargetOthers}function A(a,e,d,f,h,k){var g=b,l="scrollbars=1,location=1,statusbar=1,menubar=0,resizable=1,width="+d.toString()+",height="+f.toString()+",screenX="+h+",screenY="+k+"index=0,total=1";d=g.PopSettings.UseSameTab(p,g.IsAdblockRequest);!false||d||g.PopLoaded||g.IsFastPopCapped()||(g.FlashClickInterceptor.ignoreElementPredicate=function(a){if(g.PopSettings.RespectTargetBlank){var b=g.GetParentLink(a);if("_blank"===b.getAttribute("target")||"nofollow"===b.getAttribute("rel"))return!0}return g.IsDontTriggerForSelectorMatch(g.PopSettings.PopUnderDontTriggerSelector,a)},g.FlashClickInterceptor.activate(p,g.IsMobile.any(g._Top),g.IsFlashPluginEnabled()));try{if(!(!navigator.mimeTypes["application/x-shockwave-flash"]||g.IsMobile.any(g._Top)||!p.chrome&&"Chrome"!==p.name||g.PopSettings.IsTracking||g.PopSettings.ChromeTabunder||void 0!==g.PopSettings.SameTabAdSettings&&(!g.PopSettings.SameTabAdSettings.AdblockOnly||g.IsAdblockRequest)&&g.PopSettings.SameTabAdSettings.Chrome))if("Mac OS"===v.name)b.PopSettings.SameTabAdSettings={},b.PopSettings.SameTabAdSettings.AdblockOnly=b.PopSettings.SameTabAdSettings.AdblockOnly||!1,b.PopSettings.SameTabAdSettings.Chrome=!0,b.PopSettings.SameTabAdSettings.Firefox=b.PopSettings.SameTabAdSettings.Firefox||!1,b.PopSettings.SameTabAdSettings.IE=b.PopSettings.SameTabAdSettings.IE||!1,b.PopSettings.SameTabAdSettings.Safari=b.PopSettings.SameTabAdSettings.Safari||!1,g.FlashClickInterceptor.deactivate();else{g.InitChromePopunder(null);return}}catch(m){}var n=function(){var b=g._Top.document.createElement("iframe");b.setAttribute("style","display:none;");g._Top.document.body.appendChild(b);b.src=a};g.BindOnDocmentClick(function(d){if(!g.PopRunning&&(g.PopRunning=!0,!g.PopLoaded&&!g.IsFastPopCapped())){try{window.console=window.console||{log:function(a){}},console.log(d)}catch(f){}var h=d.target||d.srcElement;g.OriginalLink=h;if(g.IsDontTriggerForSelectorMatch(g.PopSettings.PopUnderDontTriggerSelector,g.OriginalLink))g.PopRunning=!1;else if("a"!==h.nodeName.toLowerCase()&&(h=g.GetParentLink(h)),!g.PopSettings.RespectTargetBlank||"_blank"!==h.getAttribute("target")&&"nofollow"!==h.getAttribute("rel")){if(g.IsMobile.any(g._Top)){if("iOS"==v.name&&parseFloat(v.version)<parseFloat("6")||g.IsMobile.Windows(g._Top))return;r=new UAParser;var k=r.getUA();if(-1<k.indexOf("FBAN/FBIOS")||-1<k.indexOf("FB_IAB/FB4A")||-1<k.indexOf("FBAV"))return;if("a"!==h.nodeName.toLowerCase()||"#"==h.getAttribute("href")||-1!=h.getAttribute("href").indexOf("javascript:")||g.PopSettings.RespectTargetBlank&&("_blank"===h.getAttribute("target")||"nofollow"===h.getAttribute("rel")))return b.PopLoaded=!1,b.PopRunning=!1,!0;b.OnFastPopLoaded();b.PopRunning=!1;g.IncrementFastPopCap();if(g.PopSettings.IsTracking)n();else{if("iOS"===v.name&&("Chrome"===p.name||"Mobile Safari"===p.name&&parseFloat(p.version)<parseFloat("8")))window.open(h.getAttribute("href"));else if(b.PopSettings.MobileHistory){var m=window.open("about:blank");m.history.replaceState({previous:b._Top.location.href},null,b._Top.location.href);m.addEventListener("popstate",function(a){m.location=a.state.previous});m.location=h.getAttribute("href")}else window.open(h.getAttribute("href"));"Android"==v.name&&h.setAttribute("href",c);b._Top.document.location=c}void 0!==d.preventDefault&&d.preventDefault();return!1}var k=function(){r=new UAParser;var e=r.getUA();if(-1<e.indexOf("FBAN/FBIOS")||-1<e.indexOf("FB_IAB/FB4A")||-1<e.indexOf("FBAV"))return b.PopLoaded=!0,b.PopRunning=!0;if(g.PopSettings.IsTracking)n(),b.OnFastPopLoaded();else{h.setAttribute("data-tabunder",!0);var e="inftabwindow_"+Math.floor(1E8*Math.random()+1).toString(),c,f=b._Top.document.location.href,k=/#$/;if("a"===h.tagName.toLowerCase()&&0!==h.getAttribute("href").lastIndexOf("javascript:",0))k=h.href.replace(k,"");else if(b.PopSettings.SameTabAdSettings.ClickAnywhere)k=f;else return b.PopLoaded=!1,b.PopRunning=!1,!0;d.preventDefault();try{c=window.open("about:blank",e),c.history.replaceState({previous:f},null,f),c.onpageshow=function(a){a.persisted&&c.location.reload()},c.addEventListener("popstate",function(a){c.location=a.state.previous}),c.location=k}catch(l){c=window.open(k,e)}c.focus();b.OnFastPopLoaded();b._Top.location.href=a+"&hosted=true"}b.PopLoaded=!0;b.PopRunning=!1;b.IncrementFastPopCap()},q=function(){b.OnFastPopLoaded();b.PopRunning=!1;b.IncrementFastPopCap();if(g.PopSettings.IsTracking)n();else{var e=document.createElement("a");e.setAttribute("data-tabunder",!0);"true"===g.PopSettings.UseRemoteMediaHost&&g.IsAdblockRequest?(e.href="true"===g.PopSettings.UsePopCustomHost?g.PopSettings.PopCustomHostUrl:document.location.href,setTimeout(function(){w.location.href=a+"&hosted=true"},g.PopRedirectDelay)):e.href=a+"&hosted=true";e.target="inftabwindow_"+Math.floor(1E8*Math.random()+1).toString();b._Top.window.document.body.appendChild(e);var c=document.createEvent("MouseEvents");c.initMouseEvent("click",!0,!0,window,0,0,0,0,0,!0,!1,!1,!0,0,null);e.dispatchEvent(c)}},u=function(){if(g.PopSettings.IsTracking)n();else if("true"===g.PopSettings.UseRemoteMediaHost&&g.IsAdblockRequest){var c=window.open("true"===g.PopSettings.UsePopCustomHost?g.PopSettings.PopCustomHostUrl:document.location.href,e,l);setTimeout(function(){c.location.href=a},g.PopRedirectDelay)}else window.open(a,e,l);b.IncrementFastPopCap();b.OnFastPopLoaded();b.PopRunning=!1};if(g.PopSettings.UseSameTab(p,g.IsAdblockRequest))k();else if(p.chrome||"Chrome"==p.name)g.PopSettings.ChromeTabunder||-1<navigator.userAgent.indexOf("Chrome/33.0.1750.146")?q():u();else if(g.PopSettings.IsTracking)n(),b.OnFastPopLoaded(),b.PopRunning=!1,b.IncrementFastPopCap();else if(t=window.open(a,e,l))b.OnFastPopLoaded(),b.PopRunning=!1,b.IncrementFastPopCap(),B()}else g.PopRunning=!1}})}function B(){try{if(t.blur(),t.opener.window.focus(),window.self.window.focus(),window.focus(),p.firefox||"Firefox"==p.name)C();else if(p.safari||"Safari"==p.name)D();else if(p.msie||"IE"==p.name)b._Top.document.focus();else if(p.chrome||"Chrome"==p.name){var a=document.createElement("A");a.id="inffake";document.body.appendChild(a);a.webkitRequestFullscreen();var e=document.createEvent("MouseEvents");e.initMouseEvent("click",target?!0:!1,!0,window,0,0,0,0,0,!1,!1,!0,!1,0,null);MgPop.currentBlock.fakeLink.dispatchEvent(e);document.webkitCancelFullScreen();setTimeout(function(){window.getSelection().empty()},250)}}catch(c){}}function C(){var a=window.open("about:blank");a.focus();a.close()}function D(){var a=b._Top.window.document.createElement("a");a.href="data:text/html,<script>window.close();\x3c/script>";document.getElementsByTagName("body")[0].appendChild(a);var e=b._Top.window.document.createEvent("MouseEvents");e.initMouseEvent("click",!1,!0,window,0,0,0,0,0,!0,!1,!1,!0,0,null);a.dispatchEvent(e);a.parentNode.removeChild(a)}var t=null;d=d||{};var E=(d.name||Math.floor(1E3*Math.random()+1)).toString(),r=new UAParser,v=r.getOS();r.getDevice();var p=r.getBrowser();if(!a.PopLoaded&&!a.IsFastPopCapped()&&f(b.PopSettings.RequireToRunOnDomainFilter)&&f(b.PopSettings.ReferrerFilter)&&f(b.PopSettings.KeywordFilter)&&l()&&x()&&y()&&z()&&k()&&n()){var F=b.GetWindowLeft()+b.GetWindowWidth()/2-512,G=b.GetWindowTop()+b.GetWindowHeight()/2-384;A(e,E,1024,768,F,G)}})(c)},OnFastPopLoaded:function(){b.PopLoaded=!0;b.FlashClickInterceptor.deactivate();"function"===typeof InfCustomerPopLoadedCallback&&InfCustomerPopLoadedCallback()},IsClientSideFiltersPassed:function(){return!0},FindPublisherSiteFilterLogIndex:function(){for(var a=-1,b=0;b<this.Media.DecisionProfile.Log.Messages.length;b++)if("Checking Filters"==this.Media.DecisionProfile.Log.Messages[b].Message){a=b;break}return a},IsPublisherSiteFrequencyCapPassed:function(a,b,c){var d=0,f;for(f in b)(this.ServerDate-new Date(b[f].D))/1E3<a.CapLengthInSeconds&&d++;b={passed:d<a.Cap};c&&(b.message="User impressions of "+d+" are "+(b.passed?"under":"over")+" publisher site frequency cap: "+a.Cap);return b},GetStdTimezoneOffset:function(){for(var a=(new Date).getFullYear(),b=null,c=0;12>c;c++)var d=(new Date(a,c,1)).getTimezoneOffset(),b=null==b?d:Math.max(b,d);return-1*b},FetchMediaUrl:function(a,e){var c=b.InfinityHost;1==a.Redirect&&(c=this.InfinityHost.replace("http://","https://"));var d=this._Top.location;b.IsAdblockRequest?(b.b32encode(encodeURIComponent(d)),d="/"+(a.MediaSegmentId?a.MediaSegmentId:"null")+"/"+(a.TempMediaId?a.TempMediaId:"null")+"/"+(a.PassBackId?a.PassBackId:"null")+"/"+(a.DataContextId?a.DataContextId:"null")+"/"+(a.VolumeMetricId?a.VolumeMetricId:"null")+"/"+b.IsAdblockRequest+"/"+b.GetScreenWidth()+"x"+b.GetScreenHeight()+"/"+(a.TimeZoneOffset?a.TimeZoneOffset:"null")+"/"+("undefined"!=typeof a.IsDSTActive&&null!=a.IsDSTActive?a.IsDSTActive:"null")+"/Redirect.rb"):d=a.RedirectUrl+"&abr="+b.IsAdblockRequest+"&res="+b.GetScreenWidth()+"x"+b.GetScreenHeight();if(!0===e&&1024>a.Settings.Width){if(void 0!=b.DFPImpressionUrl&&""!=b.DFPImpressionUrl)return d="/Bridge/Index?width="+a.Settings.Width+"&height="+a.Settings.Height+"&url="+encodeURIComponent(encodeURIComponent(d)),b.DFPImpressionUrl+c+d;d="/Bridge/Index?width="+a.Settings.Width+"&height="+a.Settings.Height+"&url="+encodeURIComponent(d);return c+d}if("Link"===a.MediaType&&!0===a.Settings.PassParams&&0<b.PassParams.length){var f=d+"&"+b.PassParams;2048>=f.length&&(d=f);d=b.DFPImpressionUrl+d}f=b.MediaSourceTypes;"Link"!==a.MediaType||a.MediaSourceType!=f.Video&&a.MediaSourceType!=f.VideoTag||(d="/Bridge/Index?width="+a.Settings.Width+"&height="+a.Settings.Height+"&url="+encodeURIComponent(d));b.Lotame.PlaceImpressionPixel(a);return void 0!==b.EncodeUrl&&b.EncodeUrl?(c=c.replace("https://","").replace("http://","").replace("//",""),b.DFPImpressionUrl+"//"+window.getUri(c+d)):b.DFPImpressionUrl+c+d},IsDontTriggerForSelectorMatch:function(a,e){if(a)for(var c=b._Top.document.querySelectorAll(a),d=0;d<c.length;d++)for(var f=e,l=0;5>l;l++){if(c[d]===f)return!0;f&&"html"!==f.nodeName.toLowerCase()&&(f=f.parentNode)}return!1},BindOnDocumentTouch:function(a){var e=b._Top;if(e.document.addEventListener)e.document.addEventListener("touchstart",function(b){try{a(b)}catch(e){}},!1);else try{e.document.attachEvent("touchstart",a)}catch(c){}},BindOnDocmentClick:function(a){var e=b._Top;e.document.addEventListener?e.document.addEventListener("click",function(b){try{a(b)}catch(e){}},!1):e.document.attachEvent("onclick",function(b){try{a(b)}catch(e){}})},FlashClickInterceptor:{enableDebugBorder:!1,ignoreElementPredicate:null,eventUtil:{addListener:function(a,b,c){a.addEventListener?a.addEventListener(b,c):a.attachEvent("on"+b,c)},removeListener:function(a,b,c){a.removeEventListener?a.removeEventListener(b,c):a.detachEvent("on"+b,c)}},overlay:null,activeObject:null,activePollingInterval:null,handleObjects:!0,handleEmbeds:!0,hasTriggeredEvent:function(a){if(null==this.overlay)return!1;var b=a.target||a.srcElement;return"string"===typeof a.type&&"click"===a.type.toLowerCase()&&b===this.overlay},activate:function(a,b,c){if(!1!==c&&!0!==b){b=(a.chrome||"Chrome"===a.name)&&31<=parseInt(a.major);c=(a.msie||"IE"===a.name)&&8<=parseInt(a.major);var d=a.firefox||"Firefox"===a.name;if(b||c||"Edge"===a.name||d)this.handleObjects=!d,this.overlay=this._insertOverlay(),this.eventUtil.addListener(this.overlay,"mouseleave",this._onOverlayMouseLeave),this.eventUtil.addListener(document,"mouseover",this._onDocumentMouseEnter)}},deactivate:function(){null!==this.overlay&&(this.eventUtil.removeListener(this.overlay,"mouseleave",this._onOverlayMouseLeave),this.eventUtil.removeListener(document,"mouseover",this._onDocumentMouseEnter),this._closeOverlay(),this.overlay.parentNode.removeChild(this.overlay),this.overlay=null)},_insertOverlay:function(){var a=document.createElement("div");try{a.style.backgroundColor="rgba(0,0,0,0)"}catch(b){a.style.backgroundColor="white",a.style.filter="alpha(opacity=0)"}!0===this.enableDebugBorder&&(a.style.border="3px solid red");a.style.position="absolute";a.style.zIndex=1E4;a.style.display="none";document.body.appendChild(a);return a},_onDocumentMouseEnter:function(a){var e=a.target||a.srcElement,c=b.FlashClickInterceptor,d="object"===e.tagName||"OBJECT"===e.tagName,f="embed"===e.tagName||"EMBED"===e.tagName;!(c.handleObjects&&d||c.handleEmbeds&&f)||"function"===typeof c.ignoreElementPredicate&&!0===c.ignoreElementPredicate(e)||c._onObjectMouseEnter(a)},_onOverlayMouseLeave:function(a){b.FlashClickInterceptor._closeOverlay()},_closeOverlay:function(){this.overlay.style.display="none";this.activeObject=null;null!==this.activePollingInterval&&(clearInterval(this.activePollingInterval),this.activePollingInterval=null)},_onObjectMouseEnter:function(a){var e=b.FlashClickInterceptor;e._closeOverlay();a=a.target||a.srcElement;e.activeObject=a;var c=e.overlay;c.style.display="block";e._syncOverlaySizeAndPosition(c,a);var d=e.activeObject.getBoundingClientRect();e.activePollingInterval=setInterval(function(){if(null!==e.activeObject){var a=e.activeObject.getBoundingClientRect();d.left===a.left&&d.top===a.top&&d.bottom===a.bottom&&d.right===a.right||e._syncOverlaySizeAndPosition(e.overlay,e.activeObject)}},200)},_syncOverlaySizeAndPosition:function(a,b){var c=null===a.style.borderWidth||""===a.style.borderWidth?0:2*parseFloat(a.style.borderWidth.replace("px",""));a.style.width!==b.offsetWidth+"px"&&(a.style.width=b.offsetWidth-c+"px");a.style.height!==b.offsetHeight+"px"&&(a.style.height=b.offsetHeight-c+"px");var c=b.getBoundingClientRect(),d=a.getBoundingClientRect(),f=d.top-(d.top-c.top);a.style.left=d.left-(d.left-c.left)+"px";a.style.top=f+"px"}},GetExpiration:function(a){var b=new Date;b.setTime((new Date).valueOf()+1E3*a);return b},IsExpired:function(a){return(new Date).valueOf()>=Date.parse(a)},IsCapped:function(a,b,c,d){a=(d=!!d)?this.Storage.GetSessionStorage(a):this.Storage.GetLocalStorage(a);b=d?this.Storage.GetSessionStorage(b):this.Storage.GetLocalStorage(b);return void 0===a||0===a||void 0===b||this.IsExpired(b)||isNaN(a)?!1:void 0!==c&&a>=c},IncrementCap:function(a,b,c,d){var f=(d=!!d)?this.Storage.GetSessionStorage(a):this.Storage.GetLocalStorage(a),l=d?this.Storage.GetSessionStorage(b):this.Storage.GetLocalStorage(b);if(void 0===f||0===f||void 0===l||this.IsExpired(l)||isNaN(f))f=0,l=this.GetExpiration(c);d?this.Storage.SetSessionStorage(a,++f):this.Storage.SetLocalStorage(a,++f);d?this.Storage.SetSessionStorage(b,l):this.Storage.SetLocalStorage(b,l)},IsFastPopCapped:function(){return this.IsCapped("InfNumFastPops","InfNumFastPopsExpire",this.PopSettings.Cap)},IncrementFastPopCap:function(){this.IncrementCap("InfNumFastPops","InfNumFastPopsExpire",this.PopSettings.CapLength)},GetWindowHeight:function(){var a=0;"number"==typeof this._Top.window.innerHeight?a=this._Top.window.innerHeight:this._Top.document.documentElement&&this._Top.document.documentElement.clientHeight?a=this._Top.document.documentElement.clientHeight:this._Top.document.body&&this._Top.document.body.clientHeight&&(a=this._Top.document.body.clientHeight);return a},GetWindowWidth:function(){var a=0;"number"==typeof this._Top.window.innerWidth?a=this._Top.window.innerWidth:this._Top.document.documentElement&&this._Top.document.documentElement.clientWidth?a=this._Top.document.documentElement.clientWidth:this._Top.document.body&&this._Top.document.body.clientWidth&&(a=this._Top.document.body.clientWidth);return a},GetScreenWidth:function(){return screen.width},GetScreenHeight:function(){return screen.height},GetWindowTop:function(){return void 0!==this._Top.window.screenTop?this._Top.window.screenTop:this._Top.window.screenY},GetWindowLeft:function(){return void 0!==this._Top.window.screenLeft?this._Top.window.screenLeft:this._Top.window.screenX},GetParentLink:function(a){if(null==a.getAttribute("target")&&null==a.getAttribute("rel")&&"html"!=a.nodeName.toLowerCase())for(var b=0;a.parentNode&&4>=b&&"html"!=a.nodeName.toLowerCase()&&(b++,a=a.parentNode,"a"!==a.nodeName.toLowerCase()||""===a.href););return a},Querystring:{Init:function(){for(var a,b=/\+/g,c=/([^&=]+)=?([^&]*)/g,d=window.location.search.substring(1);a=c.exec(d);)this.Params[decodeURIComponent(a[1].replace(b," "))]=decodeURIComponent(a[2].replace(b," "))},Params:[]},Script:{Items:[],Add:function(a,b){return this.Exists(a)?!1:(this.Items.push({url:a,cache:b,complete:!1}),!0)},Exists:function(a){for(var b=0;b<this.Items.length;b++)if(this.Items[b].url==a)return!0;return!1},Complete:function(a){for(var b=0;b<a.length;b++)if(!a[b].complete)return!1;return!0},Create:function(a,b){var c=document.createElement("script");c.setAttribute("type","text/javascript");if(b)c.src=a;else{var d=Math.floor(89999999*Math.random()+1E7);c.src=-1<a.indexOf("?")?a+"&"+d:a+"?"+d}return c},AppendToDom:function(a,e,c){var d=this,f=document.getElementsByTagName("head")[0];if(void 0!==b.UseAjax&&b.UseAjax)b.AjaxLoad(a[e].url,function(b){var f=document.createElement("script");f.type="text/javascript";f.innerHTML=b.responseText;b=document.getElementsByTagName("script")[0];b.parentNode.insertBefore(f,b);a[e].complete=!0;d.Complete(a)&&"function"==typeof c&&c()});else{var l=a[e].url;void 0!==b.EncodeUrl&&b.EncodeUrl&&(l="//"+window.getUri(l));var n=this.Create(l,a[e].cache);n.onload=n.onreadystatechange=function(b){a[e].complete||this.readyState&&"loaded"!=this.readyState&&"complete"!=this.readyState||(a[e].complete=!0,n.onload=n.onreadystatechange=null,d.Complete(a)&&"function"==typeof c&&c())};f.appendChild(n)}},Load:function(a,b,c){if(0===arguments.length||1===arguments.length){var d=this.Items;this.Items=[];for(var f=0;f<d.length;f++)this.AppendToDom(d,f,a)}else this.AppendToDom([{url:a,cache:b,complete:!1}],0,c)}},Storage:{GetLocalStorage:function(a){if(a=this.SupportsLocalStorage()?localStorage[a]:this.GetCookie(a)){var b=a.split("__")[0];if(b==this.GetCookie("ISSH")||"undefined"==b)a=a.split("__")[1]}return a},SetLocalStorage:function(a,b){var c=this.GetCookie("ISSH")+"__"+b;if(this.SupportsLocalStorage())try{localStorage[a]=c}catch(d){this.FailedLocalStorage=!0}else this.SetCookie(a,c)},SupportsLocalStorage:function(){try{return sessionStorage.setItem("storageSupport",1),sessionStorage.removeItem("storageSupport"),"localStorage"in window&&null!==window.localStorage}catch(a){return a.code===DOMException.QUOTA_EXCEEDED_ERR&&0===sessionStorage.length&&(window.console=window.console||{log:function(a){}},console.log("Safari private mode detected")),!1}},GetSessionStorage:function(a){if(a=this.SupportsSessionStorage()?sessionStorage[a]:this.GetCookie(a)){var b=a.split("__")[0];if(b==this.GetCookie("ISSH")||"undefined"==b)a=a.split("__")[1]}return a},SetSessionStorage:function(a,b){var c=this.GetCookie("ISSH")+"__"+b;if(this.SupportsSessionStorage())try{sessionStorage[a]=c}catch(d){this.FailedSessionStorage=!0}else this.SetCookie(a,c)},GetSiteVisitHistory:function(a){try{var b=this.GetCookie("ISPH").substring(1),b=b.replace(/~1/g,'[{"').replace(/~E/g,'SId":').replace(/~4/g,'"D"').replace(/~3/g,'"SId"').replace(/~C/g,'"2014-').replace(/~D/g,'"2015-').replace(/~2/g,'"}]');eval("var siteVisitHistory = "+b);return siteVisitHistory[a]}catch(c){return null}},SupportsSessionStorage:function(){try{return sessionStorage.setItem("storageSupport",1),sessionStorage.removeItem("storageSupport"),"sessionStorage"in window&&null!==window.sessionStorage}catch(a){return a.code===DOMException.QUOTA_EXCEEDED_ERR&&0===sessionStorage.length&&(window.console=window.console||{log:function(a){}},console.log("Safari private mode detected")),!1}},SetCookie:function(a,b,c){var d=new Date;d.setSeconds(d.getSeconds()+c);b=escape(b)+(null==c?"":"; expires="+d.toUTCString());document.cookie=a+"="+b},GetCookie:function(a){var b,c,d,f=document.cookie.split(";");for(b=0;b<f.length;b++)if(c=f[b].substr(0,f[b].indexOf("=")),d=f[b].substr(f[b].indexOf("=")+1),c=c.replace(/^\s+|\s+$/g,""),c==a)return unescape(d)},FailedLocalStorage:!1,FailedSessionStorage:!1},IsMobile:{Android:function(a){return a.navigator.userAgent.match(/Android/i)},BlackBerry:function(a){return a.navigator.userAgent.match(/BlackBerry/i)},iOS:function(a){return a.navigator.userAgent.match(/iPhone|iPad|iPod/i)},Opera:function(a){return a.navigator.userAgent.match(/Opera Mini/i)},Windows:function(a){return a.navigator.userAgent.match(/IEMobile/i)},any:function(a){return a.navigator.userAgent.match(/Android|BlackBerry|iPhone|iPad|iPod|Opera Mini|IEMobile/i)}},Browser:new function(){var a=this;this.current=(new UAParser).getBrowser();this.isSafari=function(){return"Safari"===a.current.name};this.isChrome=function(){return"Chrome"===a.current.name};this.isOpera=function(){return"Opera"===a.current.name};this.isFirefox=function(){return"Firefox"===a.current.name};this.isIE=function(){return"IE"===a.current.name};return a},GetSupportedVideo:function(){var a=0;this.IsHtml5VideoSupported()&&(a|=1);this.IsFlashPluginEnabled()&&(a|=2);return a},IsHtml5VideoSupported:function(){return!!document.createElement("video").canPlayType},IsFlashPluginEnabled:function(){if(navigator&&navigator.mimeTypes&&"undefined"!=typeof navigator.mimeTypes["application/x-shockwave-flash"]&&navigator.mimeTypes["application/x-shockwave-flash"].enabledPlugin)return!0;try{if(new ActiveXObject("ShockwaveFlash.ShockwaveFlash"))return!0}catch(a){}return!1},b32encode:function(a){var b=[],c=Math.floor(a.length/5),d=a.length%5;if(0!=d){for(var f=0;f<5-d;f++)a+="\x00";c+=1}for(f=0;f<c;f++)b.push("ABCDEFGHIJKLMNOPQRSTUVWXYZ234567".charAt(a.charCodeAt(5*f)>>3)),b.push("ABCDEFGHIJKLMNOPQRSTUVWXYZ234567".charAt((a.charCodeAt(5*f)&7)<<2|a.charCodeAt(5*f+1)>>6)),b.push("ABCDEFGHIJKLMNOPQRSTUVWXYZ234567".charAt((a.charCodeAt(5*f+1)&63)>>1)),b.push("ABCDEFGHIJKLMNOPQRSTUVWXYZ234567".charAt((a.charCodeAt(5*f+1)&1)<<4|a.charCodeAt(5*f+2)>>4)),b.push("ABCDEFGHIJKLMNOPQRSTUVWXYZ234567".charAt((a.charCodeAt(5*f+2)&15)<<1|a.charCodeAt(5*f+3)>>7)),b.push("ABCDEFGHIJKLMNOPQRSTUVWXYZ234567".charAt((a.charCodeAt(5*f+3)&127)>>2)),b.push("ABCDEFGHIJKLMNOPQRSTUVWXYZ234567".charAt((a.charCodeAt(5*f+3)&3)<<3|a.charCodeAt(5*f+4)>>5)),b.push("ABCDEFGHIJKLMNOPQRSTUVWXYZ234567".charAt(a.charCodeAt(5*f+4)&31));a=0;1==d?a=6:2==d?a=4:3==d?a=3:4==d&&(a=1);for(f=0;f<a;f++)b.pop();return b.join("")},AjaxLoad:function(a,b){var c;if("undefined"!==typeof XMLHttpRequest)c=new XMLHttpRequest;else for(var d=["MSXML2.XmlHttp.5.0","MSXML2.XmlHttp.4.0","MSXML2.XmlHttp.3.0","MSXML2.XmlHttp.2.0","Microsoft.XmlHttp"],f=0,l=d.length;f<l;f++)try{c=new ActiveXObject(d[f]);break}catch(n){}c.onreadystatechange=function(){4>c.readyState||200===c.status&&4===c.readyState&&b(c)};c.open("GET",a,!0);c.send()},Fingerprint:123};String.format||(String.format=function(a){var b=Array.prototype.slice.call(arguments,1);return a.replace(/{(\d+)}/g,function(a,d){return"undefined"!=typeof b[d]?b[d]:a})});b.Init();void 0===b._Top.g367CB268B1094004A3689751E7AC568F&&(b._Top.g367CB268B1094004A3689751E7AC568F={});void 0===b._Top.g367CB268B1094004A3689751E7AC568F.ExternalChromePop&&(b._Top.g367CB268B1094004A3689751E7AC568F.ExternalChromePop=b.ExternalChromePop);false&&"function"==typeof rAb&&rAb()}}()})})();
+</script> 
+ 
+<script type="text/javascript">
+	  var ac_back_postop = '60px';
+	  var ac_content_width = 980;
+	  var ac_back_followscroll = false;
+	  var ac_back_zindex = 100;
+	  var ac_back_changebgcolor = true;
+	</script>
+<script data-cfasync="false" type="text/javascript" src="http://www.tradeadexchange.com/a/display.php?r=420105&allowed_countries=FR,UK,IT,ES,PT,DE,NL,IE,BE,LU,NO,SE,DK,FI,US,CA"></script>
+<style>#aff_modal{position:fixed;width:100%;height:100%;top:0;left:0;background:rgba(5,5,5,0.8);z-index:999;}#aff_modal_box{width:760px;margin:10px auto;position:relative;}#aff_modal_box h1{color:white;margin:15px 0px;font-size:18px;}span#close_aff_modal{position:absolute;top:0px;right:20px;color:white;font-size:15px;font-weight:bold;cursor:pointer;}#aff_loader_gif{position:absolute;width:126px;height:22px;top:50%;left:50%;margin-left:-63px;margin-top:-11px;background:url('http://static.primewire.ag/images/ajax-loader-bar.gif') 0 0 no-repeat;z-index:999;}</style>
+<div id="aff_modal" style="display:none;">
+<div id="aff_modal_box">
+<h1>Seinfeld</h1>
+<span id="close_aff_modal">Close [ X ]</span>
+<iframe id="aff_box_iframe" name="aff_box_iframe" width="760" height="100%" frameBorder="0" style="z-index: 9999; position: relative; box-shadow: 0px 0px 20px #000; border-radius: 5px;"></iframe>
+<div id="aff_loader_gif"></div>
+</div>
+</div>
+</body>
+</html>
